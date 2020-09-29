@@ -5,6 +5,8 @@
 
 Notice: This page is starting to be translated into various languages. Since I only know how to fluently speak English, I have to use a translation tool to make translations. As such, translations may be inaccurate. If you are a native speaker in one of the poorly translated languages and also have good knowledge of the English language, please help me by reporting any errors, giving an explanation to the error, and waiting for 4 more people who speak the same language to confirm the translation.
 
+I don't know of any good translation services not owned by Google (I have tried bing translate, and DeepL, but they don't meet my needs) so I used Google Translate for all non-English parts of this.
+
 ***
 
 @A
@@ -239,9 +241,157 @@ SNU 2D Թարգմանական մոդուլի ներդրումները թույլ
 
 @B
 
-{BG} (Bulgarian)
+{EU} (Basque)
+
+# Laguntzen
+
+SNU 2D itzulpen modulurako ekarpenak onartzen dira, betiere laguntzen jarraibide hauek jarraituz:
+
+> * Mantendu profesionala
+
+> Mesedez, ez egin zin egiteak, marrazkiak edo bestelako hitz txarrak erabiltzerakoan
+
+> * Ez aldatu argazki-fitxategirik
+
+> Argazki-fitxategiek orrien bertsio zaharren artxibo gisa balio dute. Ez editatu edo ezabatu fitxategi hauek
+
+> * Sortu argazki-fitxategiak egiaztatutako konpromiso bakoitzaren ondoren
+
+> Zure lanaren artxiboak sortu behar dituzu fitxategi batean konpromisoa hartu ondoren. Argazki laburpenetarako, editatu duzun edukiarekin kopiatu eta itsatsi editatu duzun edukiarekin gorde eta gorde jatorrizko izenarekin "OldVersions /" direktorioan, ondoren "_snapshot" eta ondoren aurreko argazkiaren gainetik 1 dagoen zenbakia.
+
+> * Ez aldatu zenbait fitxategi
+
+> Onartutako goi-mailako laguntzaileek soilik alda ditzakete zenbait fitxategi, hala nola, Wiki orriak, contributing.md, README.md eta lizentzia.
+
+> * Ez gehitu jarraipen scriptetan
+
+> Nire proiektuetako jarraitzaileek ez dute baimenik. Mesedez, gorde atzeko ateak, jarraitzaileak, rootkit-ak, keylogger-ak eta bestelako pribatutasun-ezaugarri inbaditzaileak fitxategi guztietan.
+
+> * Mantendu eraginkorra
+
+> Orrialde hauek banda zabalera 10 megabit baino gutxiagorekin azkar kargatu beharko lirateke. Mesedez, ez okertu orrialdearen errendimendua.
+
+> * Ez gehitu irudirik baimenik gabe
+
+> Irudiak proiektu honetarako sentikorrak dira eta konpromisoa hartu aurretik onartu beharko dira.
+
+Mesedez, ziurtatu arau hauek betetzen dituzula hemen garatzeko.
 
 ***
+
+{BE} (Belarusian)
+
+# Уклад
+
+Уклад у моду 2D-перакладу SNU дазволены, калі вы будзеце прытрымлівацца наступных рэкамендацый:
+
+> * Трымайце яго прафесійна
+
+> Калі ласка, устрымайцеся ад лаянкі, нецэнзурных выразаў і іншых дрэнных слоў пры здзяйсненні
+
+> * Не змяняць файлы здымкаў
+
+> Файлы здымкаў служаць архівам старых версій старонак. Не рэдагуйце і не выдаляйце гэтыя файлы
+
+> * Стварэнне файлаў здымкаў пасля кожнага праверанага здзяйснення
+
+> Вам трэба ствараць архівы вашай працы пасля кожнага здзяйснення ў файл. Для здымкаў проста скапіруйце і ўстаўце файл, які вы адрэдагавалі, з адрэдагаваным змесцівам, і захавайце яго ў каталогу `OldVersions /` з зыходным імем, пасля чаго `_snapshot`, затым нумар, які перавышае папярэдні здымак.
+
+> * Не змяняйце пэўныя файлы
+
+> Толькі зацверджаныя ўдзельнікі высокага ўзроўню могуць змяняць некаторыя файлы, такія як старонкі Wiki, contributing.md, README.md і ліцэнзія.
+
+> * Не дадаваць у сцэнарыі адсочвання
+
+> Трэкеры забаронены ні ў адным з маіх праектаў. Калі ласка, не дапускайце захавання закрытых кропак, трэкераў, руткітаў, кейлоггераў і іншых функцый, якія ўрываюцца ў прыватнасць, з кожнага файла,
+
+> * Падтрымлівайце яго эфектыўнасць
+
+> Гэтыя старонкі павінны хутка загружацца з хуткасцю прапускной здольнасці менш за 10 мегабіт. Калі ласка, не пагружайце прадукцыйнасць старонкі.
+
+> * Не дадавайце выявы без дазволу
+
+> Выявы з'яўляюцца канфідэнцыяльнымі для гэтага праекта, і перад удзелам іх трэба будзе зацвердзіць.
+
+Калі ласка, не забудзьцеся прытрымлівацца гэтых правілаў, каб развівацца тут.
+
+***
+
+{BN} (Bengali)
+
+# অবদান
+
+ব্র্যান্ডনাম 2 ডি অনুবাদ মডিউলটিতে অবদানগুলি অনুমোদিত, যতক্ষণ আপনি এই অবদান নির্দেশিকা অনুসরণ করেন:
+
+> * এটি পেশাদার রাখুন
+
+> অনুগ্রহ করে প্রতিশ্রুতি দেওয়ার সময় শপথ করা, স্লুর ব্যবহার করা বা অন্যান্য খারাপ শব্দ ব্যবহার করা থেকে বিরত থাকুন
+
+> * স্ন্যাপশট ফাইলগুলি সংশোধন করবেন না
+
+> স্ন্যাপশট ফাইলগুলি পৃষ্ঠাগুলির পুরানো সংস্করণগুলির সংরক্ষণাগার হিসাবে কাজ করে। এই ফাইলগুলি সম্পাদনা বা মুছবেন না
+
+> * প্রতিটি যাচাই করা কমিটের পরে স্ন্যাপশট ফাইল তৈরি করুন
+
+> প্রতিটি ফাইলের প্রতি প্রতিশ্রুতি দেওয়ার পরে আপনাকে আপনার কাজের সংরক্ষণাগার তৈরি করতে হবে। স্ন্যাপশটগুলির জন্য, আপনি সম্পাদিত সামগ্রীগুলি দিয়ে সম্পাদিত ফাইলটি অনুলিপি করুন এবং আটকান এবং মূল নাম সহ `OldVersions /` ডিরেক্টরিতে সংরক্ষণ করুন, তারপরে `_স্নাপশট` তারপরে একটি নম্বর যা আগের স্ন্যাপশটের উপরে 1
+
+> * নির্দিষ্ট কিছু ফাইল সংশোধন করবেন না
+
+> শুধুমাত্র অনুমোদিত উচ্চ-স্তরের অবদানকারীরা উইকি পৃষ্ঠাগুলি, অবদানকারী.এমডি, README.md, এবং লাইসেন্সের মতো নির্দিষ্ট ফাইলগুলি পরিবর্তন করতে পারবেন।
+
+> * ট্র্যাকিং স্ক্রিপ্টগুলিতে যুক্ত করবেন না
+
+> আমার কোনও প্রকল্পে ট্র্যাকারদের অনুমতি নেই। দয়া করে পিছনের দরজা, ট্র্যাকার, রুটকিটস, কীলগার এবং অন্যান্য গোপনীয়তা আক্রমণাত্মক বৈশিষ্ট্য প্রতিটি ফাইলের বাইরে রাখুন,
+
+> * এটি দক্ষ রাখুন
+
+> এই পৃষ্ঠাগুলি 10 মেগাবিটের কম ব্যান্ডউইথ গতির সাথে দ্রুত লোড করতে সক্ষম হওয়া উচিত। দয়া করে পৃষ্ঠার কার্য সম্পাদন করবেন না।
+
+> * অনুমতি ব্যতীত ছবি যুক্ত করবেন না
+
+> চিত্রগুলি এই প্রকল্পের জন্য সংবেদনশীল এবং প্রতিশ্রুতিবদ্ধ হওয়ার আগে তাদের অনুমোদিত হওয়া দরকার।
+
+এখানে বিকাশ করতে দয়া করে এই বিধিগুলি অনুসরণ করে তা নিশ্চিত করুন।
+
+***
+
+{BS} (Bosnian)
+
+# Doprinosi
+
+Doprinosi 2D modulu za prevođenje SNU dozvoljeni su sve dok se pridržavate ovih doprinosnih smjernica:
+
+> * Neka bude profesionalan
+
+> Molimo vas da se suzdržavate od psovki, psovki ili drugih loših riječi prilikom počinjenja
+
+> * Ne mijenjajte datoteke snimaka
+
+> Datoteke snimka služe kao arhiva starih verzija stranica. Nemojte uređivati ​​ili brisati ove datoteke
+
+> * Stvorite datoteke snimaka nakon svakog provjerenog urezivanja
+
+> Morate stvoriti arhive svog rada nakon svakog urezivanja u datoteku. Za snimke, jednostavno kopirajte i zalijepite datoteku koju ste uredili sa sadržajem koji ste uredili i spremite je u direktorij `OldVersions /` s originalnim imenom, nakon čega slijedi `_snapshot`, a zatim broj koji je 1 iznad prethodne snimke
+
+> * Ne mijenjajte određene datoteke
+
+> Samo odobreni saradnici na visokom nivou mogu mijenjati određene datoteke, kao što su Wiki stranice, contributing.md, README.md i licenca.
+
+> * Ne dodavaj u skripte za praćenje
+
+> Tragači nisu dozvoljeni ni u jednom od mojih projekata. Molimo vas da ne držite backdoor-ove, trackere, rootkite, keyloggere i ostale značajke koje ugrožavaju privatnost iz svake datoteke,
+
+> * Neka bude efikasan
+
+> Ove stranice trebale bi se moći brzo učitati sa brzinom propusnosti manjom od 10 megabita. Molimo vas da ne zagušite performanse stranice.
+
+> * Nemojte dodavati slike bez dozvole
+
+> Slike su osjetljive za ovaj projekt i morat će ih odobriti prije nego što se mogu predati.
+
+Molimo pridržavajte se ovih pravila da biste se ovdje razvijali.
+
+{BG} (Bulgarian)
 
 # Принос
 
@@ -281,7 +431,159 @@ SNU 2D Թարգմանական մոդուլի ներդրումները թույլ
 
 @C
 
-{ZH-TRADITIONAL} (Chinese (Traditional)
+{CA} (Catalan)
+
+# Contribuint
+
+Es permeten contribucions al mòdul de traducció 2D de SNU, sempre que seguiu aquestes directrius de contribució:
+
+> * Mantingueu-lo professional
+
+> Si us plau, abstingueu-vos d'utilitzar insultes, insultes o altres paraules dolentes quan cometeu
+
+> * No modifiqueu fitxers de captures de pantalla
+
+> Els fitxers instantanis serveixen com a arxiu de versions antigues de pàgines. No editeu ni suprimiu aquests fitxers
+
+> * Creeu fitxers instantanis després de cada confirmació verificada
+
+> Heu de crear arxius del vostre treball després de cada compromís amb un fitxer. Per a les instantànies, només cal que copieu i enganxeu el fitxer que heu editat amb el contingut que heu editat i deseu-lo al directori `OldVersions /` amb el nom original, seguit de `_snapshot` i un número que és 1 per sobre de la instantània anterior
+
+> * No modifiqueu determinats fitxers
+
+> Només els col·laboradors de nivell alt aprovats poden modificar determinats fitxers, com ara les pàgines Wiki, contributing.md, README.md i la llicència.
+
+> * No afegiu scripts de seguiment
+
+> Els seguidors no estan permesos en cap dels meus projectes. Si us plau, mantingueu portes posteriors, rastrejadors, rootkits, registres de claus i altres funcions invasives de privadesa de tots els fitxers,
+
+> * Mantingueu-lo eficient
+
+> Aquestes pàgines haurien de poder carregar-se ràpidament amb una velocitat d'ample de banda inferior a 10 megabits. Si us plau, no enredeu el rendiment de la pàgina.
+
+> * No afegiu imatges sense permís
+
+> Les imatges són sensibles per a aquest projecte i caldrà aprovar-les abans de poder comprometre-les.
+
+Assegureu-vos de seguir aquestes regles per desenvolupar-les aquí.
+
+***
+
+{CEB} (Cebuano)
+
+# Naghatag
+
+Gitugotan ang mga kontribusyon sa SNU 2D Translation Module, basta sundon nimo ang mga panudlo nga naghatag niini:
+
+> * Himua kini nga propesyonal
+
+> Palihug likayi ang paggamit sa pagpanumpa, paggamit sa mga pagbutangbutang, o uban pang dili maayong mga pulong sa pagbuhat
+
+> * Ayaw usba ang mga file nga snapshot
+
+> Ang mga file nga Snapshot nagsilbing usa ka archive sa mga daan nga bersyon sa mga panid. Ayaw pag-edit o pag-delete sa kini nga mga file
+
+> * Paghimo mga file nga snapshot pagkahuman sa matag napamatud nga nahimo
+
+> Kinahanglan nga maghimo ka mga archive sa imong trabaho pagkahuman sa matag komit sa usa ka file. Alang sa mga snapshot, kopyahon lamang ug i-paste ang file nga imong gi-edit sa mga sulud nga imong gi-edit, ug i-save kini sa direktoryo sa `OldVersions /` nga adunay orihinal nga ngalan, sundan sa `"_snapshot` unya usa ka numero nga 1 sa taas nga naunang snapshot
+
+> * Ayaw usba ang pipila nga mga file
+
+> Ang mga naaprubahan ra nga tag-ayo sa lebel nga mga naghatag naghatag makabag-o sa pipila nga mga file, sama sa mga panid sa Wiki, nag-amot.md, README.md, ug lisensya
+
+> * Ayaw pagdugang sa pagsulat sa mga script
+
+> Wala gitugotan ang mga tracker sa bisan unsang mga proyekto nako. Palihug ibutang ang mga backdoors, tracker, rootkit, keyloggers, ug uban pa nga mga invasive nga bahin sa privacy gikan sa matag file,
+
+> * Padayon kini nga episyente
+
+> Kini nga mga panid kinahanglan nga dali nga makarga nga dili moubus sa 10 megabits nga tulin sa bandwidth. Palihug ayaw ibutang ang pasundayag sa panid.
+
+> * Ayaw pagdugang mga imahe nga wala’y pagtugot
+
+> Sensitibo ang mga imahe alang sa kini nga proyekto ug kinahanglan aprubahan sa wala pa kini mahimo.
+
+Palihug siguruha nga sundon ang kini nga mga lagda aron molambo dinhi.
+
+***
+
+{NY} (Chichewa)
+
+# Kupereka
+
+Zopereka zanu ku SNU 2D Translation Module ndizololedwa, bola mukamatsata malangizo awa:
+
+> * Khalani akatswiri
+
+> Chonde pewani kutukwana, kutukwana, kapena mawu ena oyipa mukamachita
+
+> * Osasintha mafayilo azithunzi
+
+> Zithunzi zojambulidwa zimakhala ngati zosunga masamba akale. Osasintha kapena kufufuta mafayilowa
+
+> * Pangani mafayilo azithunzi mukatsimikiza
+
+> Muyenera kupanga zolemba zakale za ntchito yanu mukadzipereka ku fayilo. Pazithunzi zochepa, ingokopani ndi kumata fayilo yomwe mwasintha ndi zomwe mwasintha, ndikuisunga mu chikwatu cha `OldVersions /` chokhala ndi dzina loyambirira, ndikutsatiridwa ndi `_snapshot` kenako nambala yomwe ili 1 pamwambapa
+
+> * Osasintha mafayilo ena
+
+> Othandizira okhawo ovomerezeka okha ndi omwe amatha kusintha mafayilo ena, monga masamba a Wiki, contributing.md, README.md, ndi layisensi.
+
+> * Musawonjezere m'malemba kutsatira
+
+> Otsata saloledwa mu ntchito zanga zilizonse. Chonde sungani kumbuyo, trackers, rootkits, keylogger, ndi zina zobisika zachinsinsi pa fayilo iliyonse,
+
+> * Sungani bwino
+
+> Masambawa azitha kunyamula mwachangu ndi ma megabits ochepera 10 a liwiro la bandwidth. Chonde musasokoneze magwiridwe antchito.
+
+> * Osangowonjezera zithunzi popanda chilolezo
+
+> Zithunzi ndizosavuta pantchitoyi ndipo ziyenera kuvomerezedwa asanadzipereke.
+
+Chonde onetsetsani kuti mukutsatira malamulowa kuti mupange pano.
+
+***
+
+
+{ZH-CN} (Chinese (Simplified)
+
+＃貢獻
+
+只要您遵循以下貢獻準則，就可以對SNU 2D Translation Module作出貢獻：
+
+> *保持專業
+
+>請在提交時避免使用咒罵，誹謗或其他不良用語
+
+> *不要修改快照文件
+
+>快照文件用作舊版本頁面的存檔。不要編輯或刪除這些文件
+
+> *在每個經過驗證的提交之後創建快照文件
+
+>每次提交文件後，您都必須創建工作檔案。對於快照，只需將編輯後的文件與已編輯的內容複製並粘貼，並以原始名稱保存在`OldVersions /`目錄中，然後是`_snapshot`，然後是上一個快照上方的數字1。
+
+> *不要修改某些文件
+
+>只有經過批准的高級貢獻者才能修改某些文件，例如Wiki頁面，contribution.md，README.md和許可證。
+
+> *不要添加跟踪腳本
+
+>在我的任何項目中都不允許使用跟踪器。請不要在每個文件中保留後門程序，跟踪程序，rootkit，鍵盤記錄程序和其他侵犯隱私的功能，
+
+> *保持高效
+
+>這些頁面應該能夠以不到10兆的帶寬速度快速加載。請不要降低頁面性能。
+
+> *未經許可請勿添加圖像
+
+>圖像對於此項目很敏感，需要先獲得批准才能提交。
+
+請確保遵循這些規則在此處進行開發。
+
+
+{ZH-TW} (Chinese (Traditional)
 
 ***
 
@@ -318,6 +620,120 @@ SNU 2D Թարգմանական մոդուլի ներդրումները թույլ
 >圖像對於此項目很敏感，需要先獲得批准才能提交。
 
 請確保遵循這些規則在此處進行開發。
+
+***
+
+{CO} (Corsican)
+
+# Cuntribuisce
+
+Cuntribuzioni à u Modulu di Traduzzione 2D SNU sò permessi, basta à seguità ste linee guida chì cuntribuiscenu:
+
+> * Mantene lu prufessiunale
+
+> Per piacè, astenevi di aduprà ghjuramentu, usu di slurs, o altre gattivi parolle quandu cummette
+
+> * Ùn mudificate micca i fugliali di snapshot
+
+> I fugliali Snapshot servenu da archiviu di e vechje versioni di pagine. Ùn editate micca o sguassate sti fugliali
+
+> * Crià i fugliali di snapshot dopu ogni cummessu verificatu
+
+> Duvete creà archivi di u vostru travagliu dopu ogni impegnu à un fugliale. Per e istantanee, basta cupià è incollà u fugliale chì avete editatu cù u cuntenutu chì avete editatu, è salvatelu in u cartulare `OldVersions /` cù u nome uriginale, seguitatu da `_snapshot` allora un numeru chì hè 1 sopra l'istantanea precedente
+
+> * Ùn mudificà micca certi fugliali
+
+> Solu i cuntributori di livellu altu appruvati ponu mudificà certi fugliali, cum'è e pagine Wiki, contributing.md, README.md, è a licenza.
+
+> * Ùn aghjunghje micca in script di traccia
+
+> I trackers ùn sò micca permessi in alcunu di i mo prughjetti. Per piacè, tenite porte arrière, trackers, rootkits, keyloggers, è altre caratteristiche invasive di privacy fora di ogni fugliale,
+
+> * Mantene efficiente
+
+> Queste pagine devenu esse capace di caricà rapidamente cù menu di 10 megabit di velocità di larghezza di banda. Per piacè ùn impastughjate micca e prestazioni di a pagina.
+
+> * Ùn aghjunghjite micca immagini senza permessu
+
+> L'imaghjini sò sensibili per stu prughjettu è duveranu esse appruvati prima ch'elli ponu esse impegnati.
+
+Per piacè assicuratevi di seguità queste regule per sviluppà quì.
+
+***
+
+{HR} (Croatian)
+
+# Doprinosi
+
+Doprinosi modulu 2D za prijevod SNU dopušteni su sve dok se pridržavate ovih doprinosnih smjernica:
+
+> * Neka bude profesionalno
+
+> Molimo vas da se suzdržavate od psovki, psovki ili drugih loših riječi prilikom počinjenja
+
+> * Ne mijenjajte datoteke snimaka
+
+> Datoteke snimka služe kao arhiva starih verzija stranica. Nemojte uređivati ​​ili brisati ove datoteke
+
+> * Stvaranje datoteka snimaka nakon svakog provjerenog urezivanja
+
+> Morate stvoriti arhive svog rada nakon svakog urezivanja u datoteku. Za snimke jednostavno kopirajte i zalijepite datoteku koju ste uredili sa sadržajem koji ste uredili i spremite je u direktorij `OldVersions /` s izvornim imenom, nakon čega slijedi `_snapshot`, a zatim broj koji je 1 iznad prethodne snimke
+
+> * Ne mijenjajte određene datoteke
+
+> Samo odobreni suradnici na visokoj razini mogu mijenjati određene datoteke, poput Wiki stranica, contributing.md, README.md i licence.
+
+> * Nemojte dodavati u skripte za praćenje
+
+> Trackeri nisu dopušteni ni u jednom od mojih projekata. Molimo vas da iz svake datoteke ne držite backdoor-ove, trackere, rootkite, keyloggere i ostale značajke koje ugrožavaju privatnost
+
+> * Neka bude učinkovito
+
+> Ove bi se stranice trebale moći brzo učitati s brzinom pojasa manjom od 10 megabita. Molimo vas da ne zagušite izvedbu stranice.
+
+> * Nemojte dodavati slike bez dopuštenja
+
+> Slike su osjetljive za ovaj projekt i morat će ih odobriti prije nego što se mogu predati.
+
+Molimo pridržavajte se ovih pravila da biste se ovdje razvijali.
+
+***
+
+{CS} (Czech)
+
+# Přispívá
+
+Příspěvky do překladatelského modulu SNU 2D jsou povoleny, pokud budete postupovat podle těchto pokynů pro přispívání:
+
+> * Udržujte to profesionální
+
+> Při páchání prosím nepoužívejte nadávky, nadávky ani jiná špatná slova
+
+> * Neupravujte soubory snímků
+
+> Soubory snímků slouží jako archiv starých verzí stránek. Tyto soubory neupravujte ani nemažte
+
+> * Po každém ověřeném potvrzení vytvořte soubory snímků
+
+> Po každém odevzdání souboru musíte vytvořit archiv své práce. U snímků jednoduše zkopírujte a vložte soubor, který jste upravili, s obsahem, který jste upravili, a uložte jej do adresáře `OldVersions /` s původním názvem, následovaným znakem `_snapshot` a číslem, které je 1 nad předchozím snímkem
+
+> * Neupravujte určité soubory
+
+> Určité soubory, například Wiki stránky, přispívající.md, README.md a licence, mohou upravovat pouze schválení přispěvatelé na vysoké úrovni.
+
+> * Nepřidávejte sledovací skripty
+
+> Trackery nejsou povoleny v žádném z mých projektů. Udržujte zadní vrátka, trackery, rootkity, keyloggery a další invazivní funkce ochrany osobních údajů v každém souboru,
+
+> * Udržujte to efektivní
+
+> Tyto stránky by měly být schopné rychlého načítání s rychlostí připojení menší než 10 megabitů. Nezakrývejte výkon stránky.
+
+> * Nepřidávejte obrázky bez svolení
+
+> Obrázky jsou pro tento projekt citlivé a je třeba je před schválením schválit.
+
+Při vývoji zde postupujte podle těchto pravidel.
 
 ***
 
@@ -481,6 +897,44 @@ Please make sure to follow these rules to develop here.
 
 ***
 
+{ET} (Estonian)
+
+# Kaastöö
+
+Kaastöö SNU 2D tõlkemoodulisse on lubatud, kui järgite järgmisi suuniseid:
+
+> * Hoidke seda professionaalsena
+
+> Palun hoiduge sooritamisel vandumisest, laimamisest või muudest halbadest sõnadest
+
+> * Ärge muutke hetktõmmise faile
+
+> Snapshot-failid toimivad lehtede vanade versioonide arhiivina. Ärge redigeerige ega kustutage neid faile
+
+> * Loo hetktõmmise failid pärast iga kinnitatud pühendumist
+
+> Pärast iga failile pühendumist peate looma oma tööst arhiivid. Hetkepiltide jaoks kopeerige ja kleepige redigeeritud fail koos redigeeritud sisuga ja salvestage see kataloogi OldVersions / `koos algse nimega, millele järgneb` `_snapshot`, seejärel number, mis on 1 eelmise hetktõmmise kohal
+
+> * Ärge muutke teatud faile
+
+> Ainult heakskiidetud kõrgetasemelised kaastöötajad saavad muuta teatud faile, näiteks Wiki lehti, contributing.md, README.md ja litsentsi.
+
+> * Ärge lisage jälgimisskripte
+
+> Jälgijad pole üheski minu projektis lubatud. Palun hoidke igast failist tagaukse, jälgijaid, juurkomplekte, klahvilogereid ja muid privaatsust kahjustavaid funktsioone,
+
+> * Hoidke see tõhusana
+
+> Neid lehti peaks saama kiiresti laadida vähem kui 10 megabiti ribalaiusega. Palun ärge unustage lehe jõudlust.
+
+> * Ärge lisage pilte ilma loata
+
+> Pildid on selle projekti jaoks tundlikud ja enne nende sidumist tuleb need heaks kiita.
+
+Järgige siin töötamiseks kindlasti neid reegleid.
+
+***
+
 @F
 
 {FR} (French)
@@ -523,6 +977,120 @@ Veuillez vous assurer de suivre ces règles pour développer ici.
 
 ***
 
+{TL} (Filipino)
+
+# Nag-aambag
+
+Pinapayagan ang mga kontribusyon sa SNU 2D Translation Module, basta sundin mo ang mga alituntuning nagbibigay ng kontribusyon:
+
+> * Panatilihing propesyonal ito
+
+> Mangyaring pigilin ang paggamit ng pagmumura, paggamit ng slurs, o iba pang masamang salita kapag nangangako
+
+> * Huwag baguhin ang mga file ng snapshot
+
+> Ang mga file ng snapshot ay nagsisilbing isang archive ng mga lumang bersyon ng mga pahina. Huwag i-edit o tanggalin ang mga file na ito
+
+> * Lumikha ng mga file ng snapshot pagkatapos ng bawat na-verify na gumawa
+
+> Kailangan mong lumikha ng mga archive ng iyong trabaho pagkatapos ng bawat pag-commit sa isang file. Para sa mga snapshot, kopyahin lamang at i-paste ang file na na-edit mo kasama ang mga nilalamang na-edit mo, at i-save ito sa direktoryo ng "OldVersions /` na may orihinal na pangalan, na sinusundan ng "_snapshot` pagkatapos ng isang numero na 1 sa itaas ng nakaraang snapshot
+
+> * Huwag baguhin ang ilang mga file
+
+> Ang mga naaprubahang nagbibigay ng mataas na antas lamang ang maaaring magbago ng ilang mga file, tulad ng mga pahina ng Wiki, nag-aambag.md, README.md, at ang lisensya.
+
+> * Huwag idagdag sa mga script ng pagsubaybay
+
+> Hindi pinapayagan ang mga tracker sa alinman sa aking mga proyekto. Mangyaring panatilihin ang mga backdoors, tracker, rootkit, keylogger, at iba pang mga tampok na nagsasalakay sa privacy sa bawat file,
+
+> * Panatilihin itong mahusay
+
+> Ang mga pahinang ito ay dapat na mabilis na mai-load na may mas mababa sa 10 megabits ng bilis ng bandwidth. Mangyaring huwag pabayaan ang pagganap ng pahina.
+
+> * Huwag magdagdag ng mga imahe nang walang pahintulot
+
+> Ang mga imahe ay sensitibo para sa proyektong ito at kailangang maaprubahan bago sila magawa.
+
+Mangyaring tiyaking sundin ang mga patakarang ito upang makabuo dito.
+
+***
+
+{FI} (Finnish)
+
+# Osallistuminen
+
+Osallistuminen SNU 2D -käännösmoduuliin on sallittua, kunhan noudatat näitä avustavia ohjeita:
+
+> * Pidä ammattitaitoisena
+
+> Älä käytä vannomista, herjauksia tai muita huonoja sanoja tehdessäsi
+
+> * Älä muokkaa tilannekuvatiedostoja
+
+> Tilannekuvatiedostot toimivat arkistona vanhoista sivuversioista. Älä muokkaa tai poista näitä tiedostoja
+
+> * Luo tilannekuvatiedostot jokaisen vahvistetun sitoutumisen jälkeen
+
+> Sinun on luotava arkistosi työstäsi jokaisen tiedostoon sitoutumisen jälkeen. Napsauta vain kopioimalla ja liittämällä muokkaamasi tiedosto muokkaamaasi sisältöön ja tallentamalla se alkuperäisen nimen sisältävään hakemistoon `OldVersions /`, jota seuraa `_snapshot`, sitten numero, joka on 1 edellisen tilannekuvan yläpuolella
+
+> * Älä muokkaa tiettyjä tiedostoja
+
+> Vain hyväksytyt korkean tason avustajat voivat muokata tiettyjä tiedostoja, kuten Wiki-sivuja, Contributing.md, README.md ja lisenssiä.
+
+> * Älä lisää seurantakoodeihin
+
+> Seurantoja ei sallita missään projektissani. Pidä takaovet, seurantalaitteet, rootkitit, näppäinlukijat ja muut yksityisyyttä häiritsevät ominaisuudet jokaisesta tiedostosta,
+
+> * Pidä se tehokkaana
+
+> Näiden sivujen pitäisi pystyä lataamaan nopeasti alle 10 megabitin nopeudella. Älä peitä sivun suorituskykyä.
+
+> * Älä lisää kuvia ilman lupaa
+
+> Kuvat ovat arkaluonteisia tälle projektille, ja ne on hyväksyttävä ennen kuin ne voidaan sitoa.
+
+Noudata näitä sääntöjä kehitellessäsi täällä.
+
+***
+
+{FY} (Frisian)
+
+# Bydrage
+
+Bydragen oan de SNU 2D-oersettingsmodule binne tastien, salang't jo dizze bydrage-rjochtlinen folgje:
+
+> * Hâld it profesjoneel
+
+> Bliuw asjebleaft ôf fan it brûken fan skellen, it brûken fan slúten, as oare minne wurden
+
+> * Wizigje gjin snapshot-bestannen
+
+> Snapshot-bestannen tsjinje as argyf fan âlde ferzjes fan siden. Bewurkje of wiskje dizze bestannen net
+
+> * Meitsje snapshot-bestannen nei elke ferifieare commit
+
+> Jo moatte argiven meitsje fan jo wurk nei elke ynset foar in bestân. Kopiearje en plakje gewoan it bestân dat jo hawwe bewurke mei snapshots mei de bewurke ynhâld en bewarje it yn 'OldVersions /' map mei de orizjinele namme, folge troch '_snapshot' dan in getal dat 1 is boppe de foarige snapshot
+
+> * Wizigje bepaalde bestannen net
+
+> Allinich goedkarde bydragen op hege nivo kinne bepaalde bestannen oanpasse, lykas Wiki-siden, contributing.md, README.md, en de lisinsje.
+
+> * Net tafoegje yn folcherskripts
+
+> Trackers binne net tastien yn ien fan myn projekten. Hâld asjebleaft, trackers, rootkits, keyloggers, en oare invasive funksjes foar privacy bûten elke bestân,
+
+> * Hâld it effisjint
+
+> Dizze siden moatte fluch kinne laden wurde mei minder dan 10 megabit bânbreedtesnelheid. Ferjit asjebleaft de prestaasjes fan 'e pagina net.
+
+> * Foegje gjin ôfbyldings ta sûnder tastimming
+
+> Ofbyldings binne gefoelich foar dit projekt en moatte goedkard wurde foardat se kinne wurde ynset.
+
+Soargje derfoar dat jo dizze regels folgje om hjir te ûntwikkeljen.
+
+***
+
 @G
 
 {DE} (German)
@@ -562,6 +1130,44 @@ Beiträge zum SNU 2D-Übersetzungsmodul sind zulässig, sofern Sie die folgenden
 > Bilder sind für dieses Projekt sensibel und müssen genehmigt werden, bevor sie festgeschrieben werden können.
 
 Bitte befolgen Sie diese Regeln, um sich hier weiterzuentwickeln.
+
+***
+
+{GL} (Galician)
+
+# Contribuíndo
+
+Permítense contribucións ao módulo de tradución 2D de SNU, sempre que siga estas pautas de contribución:
+
+> * Mantelo profesional
+
+> Abstéñase de usar xuramentos, insultos ou outras palabras malas cando cometa
+
+> * Non modifique ficheiros de instantáneas
+
+> Os ficheiros de instantáneas serven como arquivo de versións antigas de páxinas. Non edites nin elimines estes ficheiros
+
+> * Crea ficheiros de instantáneas despois de cada confirmación verificada
+
+> Debes crear arquivos do teu traballo despois de cada compromiso cun ficheiro. Para instantáneas, só tes que copiar e pegar o ficheiro que editaches co contido que editaches e gardalo no directorio `OldVersions /` co nome orixinal, seguido de `_snapshot` e logo un número que está 1 por encima da instantánea anterior
+
+> * Non modifique determinados ficheiros
+
+> Só os colaboradores de alto nivel aprobados poden modificar determinados ficheiros, como páxinas de Wiki, contributing.md, README.md e a licenza.
+
+> * Non engadir scripts de seguimento
+
+> Non se permiten os rastreadores en ningún dos meus proxectos. Manteña as portas traseiras, os rastreadores, os rootkits, os keyloggers e outras funcións que invaden a privacidade de todos os ficheiros.
+
+> * Mantelo eficiente
+
+> Estas páxinas deberían poder cargarse rapidamente con menos de 10 megabits de velocidade de ancho de banda. Por favor, non atasque o rendemento da páxina.
+
+> * Non engada imaxes sen permiso
+
+> As imaxes son sensibles a este proxecto e terán que aprobarse para poder comprometerse.
+
+Asegúrate de seguir estas regras para desenvolvelas aquí.
 
 ***.
 
@@ -643,7 +1249,159 @@ SNU 2D მთარგმნელობითი მოდულის შე�
 
 ***
 
+{GU} (Gujarati)
+
+# ફાળો આપે છે
+
+જ્યાં સુધી તમે આ ફાળો આપતા માર્ગદર્શિકાને અનુસરો ત્યાં સુધી બ્રાન્ડનામ 2 ડી અનુવાદ મોડ્યુલના ફાળોની મંજૂરી છે:
+
+> * તેને વ્યવસાયિક રાખો
+
+> કૃપા કરીને કમિટ કરતી વખતે શપથ લેવા, સ્લર્સનો ઉપયોગ કરવા અથવા અન્ય ખરાબ શબ્દોનો ઉપયોગ કરવાનું ટાળો
+
+> * સ્નેપશોટ ફાઇલોને સંશોધિત કરશો નહીં
+
+> સ્નેપશોટ ફાઇલો પૃષ્ઠોના જૂના સંસ્કરણોના સંગ્રહ તરીકે કામ કરે છે. આ ફાઇલોને સંપાદિત અથવા કા deleteી નાખો
+
+> * દરેક ચકાસણી પ્રતિબદ્ધતા પછી સ્નેપશોટ ફાઇલો બનાવો
+
+> ફાઇલ પ્રત્યેની દરેક પ્રતિબદ્ધતા પછી તમારે તમારા કાર્યનાં આર્કાઇવ્સ બનાવવું પડશે. સ્નેપશોટ માટે, તમે સંપાદિત કરેલી સામગ્રીઓ સાથે તમે સંપાદિત કરેલી ફાઇલને ફક્ત ક copyપિ કરો અને પેસ્ટ કરો, અને તેને મૂળ નામવાળી V OldVersions / `ડિરેક્ટરીમાં સાચવો, ત્યારબાદ` `_snapshot` પછી નંબર જે પહેલાના સ્નેપશોટ ઉપર 1 છે
+
+> * અમુક ફાઇલોમાં ફેરફાર કરશો નહીં
+
+> ફક્ત માન્ય ઉચ્ચ-સ્તરના ફાળો આપનારાઓ વિકિ પૃષ્ઠો, યોગદાન.એમડી, README.md અને લાઇસેંસ જેવી કેટલીક ફાઇલોમાં ફેરફાર કરી શકે છે.
+
+> * ટ્રેકિંગ સ્ક્રિપ્ટોમાં ઉમેરશો નહીં
+
+> મારા કોઈપણ પ્રોજેક્ટમાં ટ્રેકર્સને મંજૂરી નથી. કૃપા કરીને દરેક ફાઇલની બહારના દરવાજા, ટ્રેકર્સ, રુટકિટ્સ, કીલોગર્સ અને અન્ય ગોપનીયતા આક્રમક સુવિધાઓ રાખો,
+
+> * તેને કાર્યક્ષમ રાખો
+
+> આ પૃષ્ઠો 10 મેગાબિટથી ઓછી બેન્ડવિડ્થ ઝડપથી ઝડપથી લોડ કરવામાં સમર્થ હોવા જોઈએ. કૃપા કરીને પૃષ્ઠ પ્રદર્શનને બોગ ન કરો.
+
+> * પરવાનગી વિના છબીઓ ઉમેરશો નહીં
+
+> છબીઓ આ પ્રોજેક્ટ માટે સંવેદી છે અને તે પ્રતિબદ્ધ થઈ શકે તે પહેલાં મંજૂરીની જરૂર રહેશે.
+
+કૃપા કરીને અહીં વિકાસ કરવા માટે આ નિયમોનું પાલન કરવાનું સુનિશ્ચિત કરો.
+
+***
+
 @H
+
+{HT} (Haitian Creole)
+
+# Kontribye
+
+Kontribisyon nan Modil Tradiksyon SNU 2D yo gen dwa, osi lontan ke ou swiv direktiv sa yo kontribye:
+
+> * Kenbe li pwofesyonèl
+
+> Tanpri, evite sèvi ak sèmante, lè l sèvi avèk slurs, oswa lòt move mo lè komèt
+
+> * Pa modifye dosye snapshot
+
+> Fichye Snapshot sèvi kòm yon achiv nan vèsyon fin vye granmoun nan paj yo. Pa modifye oswa efase dosye sa yo
+
+> * Kreye dosye snapshot apre chak komèt verifye
+
+> Ou gen yo kreye achiv nan travay ou apre chak komèt nan yon dosye. Pou Pariod, jis kopye epi kole dosye ou modifye ak sa ou modifye, epi sove li nan anyè `OldVersions /` ak non orijinal la, ki te swiv pa `_snapshot` lè sa a yon nimewo ki se 1 pi wo pase Pariod anvan an
+
+> * Pa modifye sèten dosye
+
+> Se sèlman kontribitè wo nivo apwouve ki ka modifye sèten dosye, tankou paj Wiki, contributing.md, README.md, ak lisans lan.
+
+> * Pa ajoute nan swiv Scripts
+
+> Trackers yo pa gen dwa nan okenn nan pwojè mwen yo. Tanpri kenbe backdoors, trackers, routki, kelodje, ak lòt karakteristik vi prive anvayisan soti nan chak dosye,
+
+> * Kenbe li efikas
+
+> Paj sa yo ta dwe kapab byen vit chaje ak mwens pase 10 megabit nan vitès Pleasant. Tanpri, pa bouche pèfòmans paj la.
+
+> * Pa ajoute imaj san pèmisyon
+
+> Imaj yo sansib pou pwojè sa a epi yo pral bezwen apwouve yo anvan yo ka pran angajman.
+
+Tanpri asire w ke ou swiv règleman sa yo yo devlope isit la.
+
+***
+
+{HA} (Hausa)
+
+# Gudummawa
+
+An ba da gudummawa ga Translationangaren Fassara na SNU 2D, matuƙar kun bi waɗannan jagororin bayar da gudummawa:
+
+> * Kiyaye shi kwararre
+
+> Da fatan za a guji amfani da zagi, amfani da zagi, ko wasu munanan kalmomi yayin aikatawa
+
+> * Kada ku canza fayilolin hoto
+
+> Fayilolin hoto na hoto sun zama matsayin kundin tarihin tsohuwar sifofin shafuka. Kada ku gyara ko share waɗannan fayilolin
+
+> * Createirƙiri fayilolin hoto bayan kowane tabbaci ya aikata
+
+> Dole ne ku ƙirƙiri ɗakunan ajiya na aikinku bayan kowannensu yayi alƙawarin fayil. Don hotunan hoto, kawai kwafa da liƙa fayil ɗin da kuka shirya tare da abubuwan da kuka shirya, kuma adana shi a cikin adireshin `` OldVersions / '' tare da sunan asali, sannan kuma `'_snapshot` sannan lambar da ke 1 sama da hoton da ya gabata
+
+> * Kada a canza wasu fayiloli
+
+> Wadanda suka bada gudummawa ne kawai za su iya gyara wasu fayiloli, kamar su shafukan Wiki, contributing.md, README.md, da lasisi.
+
+> * Kada a saka a rubutun bin sawu
+
+> Ba a ba da izinin masu sa ido a cikin kowane ayyukana ba. Da fatan za a ajiye a bayan gida, masu sa ido, maɓallan tushen, maɓallin kewayawa, da sauran abubuwan ɓatanci na ɓoye daga kowane fayil,
+
+> * Kiyaye shi yadda ya dace
+
+> Waɗannan rukunin yanar gizon zasu iya ɗaukar nauyi da sauri da ƙasa da megabits 10 na saurin bandwidth. Don Allah kar a fadada aikin shafi.
+
+> * Kar a saka hotuna ba tare da izini ba
+
+> Hotuna suna da mahimmanci game da wannan aikin kuma suna buƙatar a amince dasu kafin a iya aikata su.
+
+Da fatan za a tabbatar da bin waɗannan ƙa'idodin don haɓakawa a nan.
+
+***
+
+{HAW} (Hawaiian)
+
+# Hāʻawi
+
+ʻAe ʻia nā hāʻawi i ka Module Unuhi ʻo SNU 2D, ʻoiai ʻoe e hāhai i kēia mau kuhikuhi hāʻawi.
+
+> * E hoʻomau i ka ʻoihana
+
+> E ʻoluʻolu e hōʻole i ka hoʻohiki ʻana, ka hoʻohana ʻana i nā ʻōlelo hōʻino, a i ʻole nā ​​huaʻōlelo maikaʻi ʻole ke hana
+
+> * Mai hoʻololi i nā faile kiʻi paʻi kiʻi
+
+> Lawelawe nā faila Snapshot ma ke ʻano he waihona o nā mana kahiko o nā ʻaoʻao. Mai hoʻoponopono a kāpae paha i kēia mau faila
+
+> * Hana i nā faile kiʻi paʻi ma hope o kēlā me kēia hōʻoia i hoʻokō ʻia
+
+> Pono ʻoe e hana i nā waihona o kāu hana ma hope o kēlā me kēia hoʻokō i kahi faila. No nā paʻi kiʻi, kope wale a kāpili i ka faila āu i hoʻoponopono ai me nā ʻike i hoʻoponopono ʻia e ʻoe, a mālama iā ia i ka papa kuhikuhi ʻo "OldVersions /` me ka inoa kumu, a ukali ʻia e "_snapshot` a laila kahi helu 1 ma luna o ke kiʻi mua.
+
+> * Mai hoʻololi i kekahi mau faile
+
+> Hiki i nā mea hāʻawi i ʻae ʻia i ʻae ʻia ke hoʻololi i kekahi mau faile, e like me nā ʻaoʻao Wiki, hāʻawi.md, README.md, a me ka laikini.
+
+> * Mai hoʻohui i nā palapala kākau
+
+> ʻAʻole ʻae ʻia nā mea nānā i kekahi o kaʻu papahana. E ʻoluʻolu e mālama i nā kua kua, nā mea kau pūnaewele, nā rootkit, nā keyloggers, a me nā hiʻohiʻona hoʻopilikia pilikino ʻē aʻe mai kēlā me kēia faile.
+
+> * E mālama pono
+
+> E hiki i kēia mau ʻaoʻao ke hoʻoili wikiwiki me ka liʻiliʻi o 10 megabits o ka wikiwiki bandwidth. E ʻoluʻolu, mai hoʻopau i ka hana ʻaoʻao.
+
+> * Mai hoʻohui i nā kiʻi me ka ʻae ʻole
+
+> Pilikia nā kiʻi no kēia papahana a pono e ʻae ʻia ma mua o ka hiki ʻana ke hana.
+
+E ʻoluʻolu e hāhai i kēia mau lula e hoʻomohala ma aneʻi.
+
+***
 
 {HE} (Hebrew)
 
@@ -719,6 +1477,84 @@ SNU 2D მთარგმნელობითი მოდულის შე�
 
 कृपया यहां विकसित करने के लिए इन नियमों का पालन करना सुनिश्चित करें।
 
+***
+
+{HMN} (Hmong)
+
+#Txoj Kev Tu Siab
+
+Kev pub rau ntawm SNU 2D Kev Cai Txhais Lus raug tso cai, tsuav yog koj ua raws li cov lus qhia no:
+
+> * Khaws nws ua kev
+
+> Thov tsis txhob hais lus dev, siv lus dev, lossis lwm lo lus phem thaum ua txhaum
+
+> * Tsis txhob hloov kho cov ntaub ntawv thaij duab
+
+> Cov ntaub ntawv Snapshot ua ib qho chaw khaws ntaub ntawv ntawm nplooj ntawv qub. Tsis txhob kho lossis rho tawm cov ntaub ntawv no
+
+> * Tsim cov ntaub ntawv snapshot tom qab txhua qhov kev txheeb xyuas qhov tseeb
+
+> Koj yuav tsum tsim cov ntawv sau tseg koj txoj haujlwm tom qab txhua daim ntawv cog lus rau ib daim ntawv. Txog kev tuav tseg, cia li luam thiab muab cov ntawv koj muab kho nrog cov ntsiab lus koj hloov kho rau, thiab khaws nws cia rau hauv phau `OldVersions /` nrog cov npe qub, tom qab ntawm `_snapshot` ces tus lej uas yog 1 nqe lus saum toj dhau los snapshot
+
+> * Tsis txhob hloov kho qee cov ntaub ntawv
+
+> Tsuas yog cov neeg tau txais kev tso cai siab tau tuaj yeem hloov kho qee yam ntaub ntawv, xws li nplooj ntawv Wiki, contribut.md, README.md, thiab daim ntawv tso cai.
+
+> * Tsis txhob ntxiv hauv kev taug qab cov ntawv sau
+
+> Cov Chaw Haujlwm tsis raug tso cai hauv ib qho ntawm kuv tes num. Thov khaws cia sab nraum zoov, trackers, rootkits, keyloggers, thiab lwm yam tsis pub twg paub tus cwj pwm tawm ntawm txhua cov ntaub ntawv,
+
+> * Khaws nws kom zoo
+
+> Cov nplooj ntawv no yuav tsum tau thauj nrawm nrog tsawg dua 10 megabits ntawm bandwidth ceev. Thov tsis txhob bog down nplooj ntawv kev ua tau zoo.
+
+> * Tsis txhob ntxiv cov duab uas tsis tas kev tso cai
+
+> Cov duab rhiab rau cov haujlwm no thiab yuav tsum tau kev pom zoo ua ntej lawv yuav ua tsis tiav.
+
+Thov nco ntsoov ua raws li cov cai no los tsim kho ntawm no.
+
+***
+
+{HU} (Hungarian)
+
+# Hozzájárulás
+
+A SNU 2D fordítási modulhoz való hozzájárulás megengedett, amennyiben betartja ezeket a közreműködő irányelveket:
+
+> * Tartsa szakszerűen
+
+> Kérjük, tartózkodjon a káromkodás, rágalmazás vagy más rossz szavak használatától az elkövetés során
+
+> * Ne módosítsa a pillanatképfájlokat
+
+> A pillanatképfájlok az oldalak régi verzióinak archívumaként szolgálnak. Ne szerkessze vagy törölje ezeket a fájlokat
+
+> * Készítsen pillanatképfájlokat minden ellenőrzött elkötelezettség után
+
+> Archívumokat kell készítenie munkájáról, miután minden egyes fájlhoz elkötelezte magát. Pillanatfelvételek készítéséhez egyszerűen másolja és illessze be a szerkesztett fájlt a szerkesztett tartalommal, és mentse el az `OldVersions /` könyvtárba az eredeti névvel, ezt követi a `_snapshot`, majd egy szám, amely 1-rel áll az előző pillanatfelvétel felett
+
+> * Ne módosítson bizonyos fájlokat
+
+> Csak jóváhagyott, magas szintű közreműködők módosíthatnak bizonyos fájlokat, például a Wiki oldalakat, a contributing.md, a README.md és a licencet.
+
+> * Ne adjon hozzá nyomkövető szkripteket
+
+> A nyomkövetők egyetlen projektemben sem engedélyezettek. Kérjük, ne minden fájlnál tartsa a hátsó ajtókat, a nyomkövetőket, a rootkiteket, a billentyűzárakat és az egyéb adatvédelmi funkciókat,
+
+> * Tartsa hatékonyan
+
+> Ezeket az oldalakat gyorsan meg kell tudni tölteni 10 megabitnél kisebb sávszélességű sebességgel. Kérjük, ne akadályozza az oldal teljesítményét.
+
+> * Ne adjon hozzá képeket engedély nélkül
+
+> A képek érzékenyek erre a projektre és jóváhagyásukra lesz szükség, mielőtt elkötelezhetnék magukat.
+
+Kérjük, feltétlenül tartsa be ezeket a szabályokat az itt történő fejlesztéshez.
+
+***
+
 @I
 
 {IS} (Icelandic)
@@ -756,6 +1592,44 @@ Framlög í SNU 2D þýðingareiningunni eru leyfð, svo framarlega sem þú fyl
 > Myndir eru viðkvæmar fyrir þessu verkefni og þarf að samþykkja þær áður en hægt er að fremja þær.
 
 Vinsamlegast vertu viss um að fylgja þessum reglum til að þróa hér.
+
+***
+
+{IG} (Igbo)
+
+# Na-enye onyinye
+
+Akwadoro inye aka na Modul Ntugharị BrandName 2D, ọ bụrụhaala na ị gbasoro ụkpụrụ nduzi ndị a:
+
+> * Debe ya ọkachamara
+
+> Biko zere ịkpọ iyi, ịkpọ iyi, ma ọ bụ okwu ọjọọ ndị ọzọ mgbe ị na-eme ihe
+
+> * Agbanwela faịlụ snapshot
+
+> Snapshot faịlụ dị ka ebe nchekwa nke nsụgharị ochie nke ibe. Edozila ma ọ bụ hichapụ faịlụ ndị a
+
+> * Mepụta snapshot faịlụ mgbe ọ bụla kwupụtara ime
+
+> Ikwesiri ịmepụta ebe nchekwa nke ọrụ gị mgbe nke ọ bụla nyefeere faịlụ. Maka snapshots, dị nnọọ idetuo na mado faịlụ ị deziri na ọdịnaya ị dezie, ma chekwaa ya na ndekọ `` OldVersions / '' nwere aha mbụ, sotere `'_snapshot` mgbe ahụ nọmba dị 1 karịa foto mbu
+
+> * Agbanwela ụfọdụ faịlụ
+
+> Naanị ndị na-akwado ọkwa dị elu nwere ike ịgbanwe ụfọdụ faịlụ, dị ka ibe Wiki, ntinye akwụkwọ.md, README.md, na ikikere.
+
+> * Etinyela na nsuso ederede
+
+> A naghị ekwe ka ndị na-egwu traktị rụọ ọrụ ọ bụla. Biko debe azụ, trackers, rootkits, keyloggers, na atụmatụ nzuzo ndị ọzọ na-ezighi ezi na faịlụ ọ bụla,
+
+> * Debe ya nke ọma
+
+> Ibe ndị a kwesịrị ịnwe ngwa ngwa ibu ihe na-erughị megabits 10 nke bandwidth ọsọ. Biko adịghị adalata na peeji nke arụmọrụ.
+
+> * Etinyekwala onyogho na-enweghị ikike
+
+> Ihe onyonyo nwere nhịahụ maka ọrụ a ma ọ ga-adị mkpa ịnabata ya tupu ha emee ya.
+
+Biko hụ na ịgbaso iwu ndị a iji zụlite ebe a.
 
 ***
 
@@ -955,6 +1829,232 @@ Priksa manawa sampeyan kudu ngetutake aturan kasebut kanggo berkembang ing kene.
 
 @K
 
+{KN} (Kannada)
+
+# ಕೊಡುಗೆ
+
+ಈ ಕೊಡುಗೆ ನೀಡುವ ಮಾರ್ಗಸೂಚಿಗಳನ್ನು ನೀವು ಅನುಸರಿಸುವವರೆಗೂ ಬ್ರಾಂಡ್‌ನೇಮ್ 2 ಡಿ ಅನುವಾದ ಮಾಡ್ಯೂಲ್‌ಗೆ ಕೊಡುಗೆಗಳನ್ನು ಅನುಮತಿಸಲಾಗಿದೆ:
+
+> * ಅದನ್ನು ವೃತ್ತಿಪರವಾಗಿರಿಸಿಕೊಳ್ಳಿ
+
+> ದಯವಿಟ್ಟು ಶಪಥ ಮಾಡುವುದು, ಕೆಸರೆರಚಾಟ ಅಥವಾ ಇತರ ಕೆಟ್ಟ ಪದಗಳನ್ನು ಬಳಸುವುದರಿಂದ ದೂರವಿರಿ
+
+> * ಸ್ನ್ಯಾಪ್‌ಶಾಟ್ ಫೈಲ್‌ಗಳನ್ನು ಮಾರ್ಪಡಿಸಬೇಡಿ
+
+> ಸ್ನ್ಯಾಪ್‌ಶಾಟ್ ಫೈಲ್‌ಗಳು ಪುಟಗಳ ಹಳೆಯ ಆವೃತ್ತಿಗಳ ಆರ್ಕೈವ್ ಆಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ. ಈ ಫೈಲ್‌ಗಳನ್ನು ಸಂಪಾದಿಸಬೇಡಿ ಅಥವಾ ಅಳಿಸಬೇಡಿ
+
+> * ಪ್ರತಿ ಪರಿಶೀಲಿಸಿದ ನಂತರ ಸ್ನ್ಯಾಪ್‌ಶಾಟ್ ಫೈಲ್‌ಗಳನ್ನು ರಚಿಸಿ
+
+> ಪ್ರತಿಯೊಂದೂ ಫೈಲ್‌ಗೆ ಬದ್ಧವಾದ ನಂತರ ನಿಮ್ಮ ಕೆಲಸದ ಆರ್ಕೈವ್‌ಗಳನ್ನು ನೀವು ರಚಿಸಬೇಕು. ಸ್ನ್ಯಾಪ್‌ಶಾಟ್‌ಗಳಿಗಾಗಿ, ನೀವು ಸಂಪಾದಿಸಿದ ಫೈಲ್ ಅನ್ನು ನೀವು ಸಂಪಾದಿಸಿದ ವಿಷಯಗಳೊಂದಿಗೆ ನಕಲಿಸಿ ಮತ್ತು ಅಂಟಿಸಿ, ಮತ್ತು ಅದನ್ನು ಮೂಲ ಹೆಸರಿನೊಂದಿಗೆ `ಓಲ್ಡ್ವರ್ಷನ್ಸ್ /` ಡೈರೆಕ್ಟರಿಯಲ್ಲಿ ಉಳಿಸಿ, ನಂತರ `_ ಸ್ನ್ಯಾಪ್‌ಶಾಟ್` ನಂತರ ಹಿಂದಿನ ಸ್ನ್ಯಾಪ್‌ಶಾಟ್‌ಗಿಂತ 1 ಕ್ಕಿಂತ ಹೆಚ್ಚು
+
+> * ಕೆಲವು ಫೈಲ್‌ಗಳನ್ನು ಮಾರ್ಪಡಿಸಬೇಡಿ
+
+> ಅನುಮೋದಿತ ಉನ್ನತ ಮಟ್ಟದ ಕೊಡುಗೆದಾರರು ಮಾತ್ರ ವಿಕಿ ಪುಟಗಳು, ಕೊಡುಗೆ ಎಂಡಿ, README.md, ಮತ್ತು ಪರವಾನಗಿಯಂತಹ ಕೆಲವು ಫೈಲ್‌ಗಳನ್ನು ಮಾರ್ಪಡಿಸಬಹುದು.
+
+> * ಟ್ರ್ಯಾಕಿಂಗ್ ಸ್ಕ್ರಿಪ್ಟ್‌ಗಳಲ್ಲಿ ಸೇರಿಸಬೇಡಿ
+
+> ನನ್ನ ಯಾವುದೇ ಯೋಜನೆಗಳಲ್ಲಿ ಟ್ರ್ಯಾಕರ್‌ಗಳನ್ನು ಅನುಮತಿಸಲಾಗುವುದಿಲ್ಲ. ದಯವಿಟ್ಟು ಬ್ಯಾಕ್‌ಡೋರ್‌ಗಳು, ಟ್ರ್ಯಾಕರ್‌ಗಳು, ರೂಟ್‌ಕಿಟ್‌ಗಳು, ಕೀಲಾಜರ್‌ಗಳು ಮತ್ತು ಇತರ ಗೌಪ್ಯತೆ ಆಕ್ರಮಣಕಾರಿ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಪ್ರತಿ ಫೈಲ್‌ನಿಂದ ಹೊರಗಿಡಿ,
+
+> * ಅದನ್ನು ಸಮರ್ಥವಾಗಿರಿಸಿಕೊಳ್ಳಿ
+
+> ಈ ಪುಟಗಳು 10 ಮೆಗಾಬಿಟ್‌ಗಳಿಗಿಂತ ಕಡಿಮೆ ಬ್ಯಾಂಡ್‌ವಿಡ್ತ್ ವೇಗದೊಂದಿಗೆ ತ್ವರಿತವಾಗಿ ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ. ದಯವಿಟ್ಟು ಪುಟ ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ಕಡಿಮೆ ಮಾಡಬೇಡಿ.
+
+> * ಅನುಮತಿಯಿಲ್ಲದೆ ಚಿತ್ರಗಳನ್ನು ಸೇರಿಸಬೇಡಿ
+
+> ಈ ಯೋಜನೆಗೆ ಚಿತ್ರಗಳು ಸೂಕ್ಷ್ಮವಾಗಿರುತ್ತವೆ ಮತ್ತು ಅವು ಬದ್ಧವಾಗುವ ಮೊದಲು ಅನುಮೋದನೆ ಪಡೆಯಬೇಕಾಗುತ್ತದೆ.
+
+ಇಲ್ಲಿ ಅಭಿವೃದ್ಧಿಪಡಿಸಲು ದಯವಿಟ್ಟು ಈ ನಿಯಮಗಳನ್ನು ಅನುಸರಿಸಲು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.
+
+***
+
+{KK} (Kazakh)
+
+# Үлес
+
+SNU 2D аударма модуліне үлес қосуға рұқсат етіледі, егер сіз осы үлес нұсқаулығын ұстанған болсаңыз:
+
+> * Оны кәсіби деңгейде ұстаңыз
+
+> Жасасаңыз, балағаттау, балағат сөздер айтудан немесе басқа жаман сөздер айтудан аулақ болыңыз
+
+> * Сурет файлдарын өзгертпеңіз
+
+> Snapshot файлдары беттердің ескі нұсқаларының мұрағаты ретінде қызмет етеді. Бұл файлдарды өңдемеңіз немесе жоймаңыз
+
+> * Әр тексерілген міндеттемелерден кейін суретке түсіру файлдарын жасаңыз
+
+> Сіз әр файлға жасағаннан кейін өз жұмысыңыздың архивтерін жасауыңыз керек. Суреттер үшін сіз өңдеген файлды өзіңіз өңдеген мазмұнмен көшіріңіз және қойыңыз, және оны «OldVersions /» каталогында түпнұсқа атымен, содан кейін «_snapshot» санымен, содан кейін алдыңғы суреттен 1 жоғары болатын санмен сақтаңыз.
+
+> * Кейбір файлдарды өзгертпеңіз
+
+> Тек мақұлданған жоғары деңгейлі салымшылар белгілі бір файлдарды өзгерте алады, мысалы, Wiki парақтары, contributing.md, README.md және лицензия.
+
+> * Бақылау сценарийлеріне қоспаңыз
+
+> Менің жобаларымның біреуіне трекерлерге тыйым салынады. Артқы есіктерді, трекерлерді, руткиттерді, клоглогерлерді және басқа құпиялылық инвазиялық мүмкіндіктерін әр файлдан сақтаңыз,
+
+> * Оны тиімді ұстаңыз
+
+> Бұл парақтар өткізу қабілеттілігінің 10 мегабиттен аз жылдамдығымен жылдам жүктелуі керек. Өтінемін, парақтың өнімділігіне асықпаңыз.
+
+> * Суреттерді рұқсатсыз қоспаңыз
+
+> Кескіндер осы жоба үшін сезімтал және оларды жасау үшін оларды мақұлдау қажет.
+
+Мұнда дамыту үшін мына ережелерді сақтағаныңызға көз жеткізіңіз.
+
+***
+
+{KM} (Khmer)
+
+# វិភាគទាន
+
+ការរួមចំណែកទៅនឹងម៉ូឌុលបកប្រែម៉ូឌែលណែម ២ ឌីត្រូវបានអនុញ្ញាតដរាបណាអ្នកធ្វើតាមគោលការណ៍ណែនាំរួមនេះ៖
+
+> * រក្សាវាឱ្យមានលក្ខណៈវិជ្ជាជីវៈ
+
+> សូមមេត្តាកុំប្រើពាក្យជេរប្រមាថប្រើពាក្យជេរប្រមាថឬពាក្យមិនល្អផ្សេងទៀតនៅពេលប្រព្រឹត្ត
+
+> * កុំកែប្រែឯកសាររូបថត
+
+> ឯកសាររូបថតដើរតួជាប័ណ្ណសារនៃទំព័រចាស់នៃទំព័រ។ កុំកែសម្រួលឬលុបឯកសារទាំងនេះ
+
+> * បង្កើតឯកសាររូបថតបន្ទាប់ពីការប្តេជ្ញាចិត្តដែលបានផ្ទៀងផ្ទាត់នីមួយៗ
+
+> អ្នកត្រូវបង្កើតបណ្ណសារនៃការងាររបស់អ្នកបន្ទាប់ពីម្នាក់ៗប្តេជ្ញាចិត្តចំពោះឯកសារមួយ។ សម្រាប់ការថតចម្លងគ្រាន់តែចម្លងនិងបិទភ្ជាប់ឯកសារដែលអ្នកបានកែសម្រួលជាមួយមាតិកាដែលអ្នកបានកែសម្រួលហើយរក្សាទុកវានៅក្នុងថត `OldVersions /` ដែលមានឈ្មោះដើមបន្ទាប់មកតាម `_snapshot` បន្ទាប់មកលេខមួយនៅខាងលើរូបថតមុន
+
+> * កុំកែប្រែឯកសារជាក់លាក់
+
+> មានតែអ្នកចូលរួមកំរិតខ្ពស់ដែលត្រូវបានយល់ព្រមអាចធ្វើការកែប្រែឯកសារមួយចំនួនដូចជាទំព័រវីគីវីអូឌ្រីមអេចឌីអរធីអិមនិងអាជ្ញាប័ណ្ណ។
+
+> * កុំបន្ថែមក្នុងស្គ្រីបតាមដាន
+
+> អ្នកតាមដានមិនត្រូវបានអនុញ្ញាតនៅក្នុងគំរោងណាមួយរបស់ខ្ញុំទេ។ សូមរក្សាទុកកម្មវិធីតាមដានអ្នកតាមដានកម្មវិធីចាក់សោរលេខកូដសម្ងាត់និងលក្ខណៈពិសេសផ្សេងៗទៀតនៃឯកសារនានា។
+
+> * រក្សាវាឱ្យមានប្រសិទ្ធភាព
+
+> ទំព័រទាំងនេះគួរតែអាចផ្ទុកបានយ៉ាងលឿនជាមួយនឹងល្បឿនប្រេកង់តិចជាង ១០ មេហ្គាបៃ។ សូមមេត្តាកុំបង្អាក់ការអនុវត្តទំព័រ។
+
+> * កុំបន្ថែមរូបភាពដោយគ្មានការអនុញ្ញាត
+
+រូបភាពមានលក្ខណៈរសើបសម្រាប់គម្រោងនេះហើយនឹងចាំបាច់ត្រូវមានការយល់ព្រមមុនពេលពួកគេប្តេជ្ញាចិត្ត។
+
+សូមធ្វើឱ្យប្រាកដថាដើម្បីអនុវត្តតាមច្បាប់ទាំងនេះដើម្បីអភិវឌ្ឍនៅទីនេះ។
+
+***
+
+{RW} (Kinyarwanda)
+
+# Umusanzu
+
+Umusanzu kuri SNU 2D Module yubuhinduzi iremewe, mugihe ukurikiza aya mabwiriza yatanzwe:
+
+> * Komeza ubuhanga
+
+> Nyamuneka wirinde gukoresha gutukana, ukoresheje ibitutsi, cyangwa andi magambo mabi mugihe wiyemeje
+
+> * Ntugahindure dosiye zifotora
+
+> Snapshot dosiye ikora nkububiko bwa verisiyo ishaje. Ntugahindure cyangwa ngo usibe dosiye
+
+> * Kora dosiye zifotora nyuma ya buri cyemezo cyagenzuwe
+
+> Ugomba gukora archives zakazi kawe nyuma ya buri kwiyemeza dosiye. Kuri snapshots, kora kopi hanyuma wandike dosiye wahinduye hamwe nibintu wahinduye, hanyuma ubike mububiko bwa "OldVersions /" hamwe nizina ryumwimerere, hanyuma ukurikire `_snapshot` hanyuma umubare uri 1 hejuru yifoto yabanjirije iyi
+
+> * Ntugahindure dosiye zimwe
+
+> Gusa abaterankunga bo murwego rwohejuru bemewe barashobora guhindura dosiye zimwe, nkurupapuro rwa Wiki, gutanga umusanzu.md, README.md, hamwe nimpushya.
+
+> * Ntukongereho mugukurikirana inyandiko
+
+> Abakurikirana ntibemerewe mubikorwa byanjye. Nyamuneka nyamuneka ubike inyuma, abakurikirana, rootkits, keyloggers, nibindi bintu byibanga byibanga muri buri dosiye,
+
+> * Komeza gukora neza
+
+> Izi page zigomba gushobora kwihuta byihuse hamwe na megabits zitarenze 10 z'umuvuduko mwinshi. Nyamuneka ntugahagarike imikorere y'urupapuro.
+
+> * Ntukongere amashusho nta ruhushya
+
+> Amashusho yunvikana kuriyi mushinga kandi azakenera kwemezwa mbere yuko yiyemeza.
+
+Nyamuneka reba neza gukurikiza aya mategeko kugirango uteze imbere hano.
+
+***
+
+{KU} (Kurdish(Kurmanji))
+
+# Beşdarîkirin
+
+Beşdariyên ji bo Moduleya Wergerandinê ya BrandName 2D destûr hene, heya ku hûn van rêbernameyên tevkar bişopînin:
+
+> * Wê profesyonel bihêlin
+
+> Ji kerema xwe dema ku sûcdar dikin, dev ji karanîna şêr, bêhurmetî, an bêjeyên din ên xirab berdin
+
+> * Pelên wêneyê neguherînin
+
+> Pelên wêneyê wekî arşîvek ji guhertoyên kevn ên rûpelan. Van pelan sererast neke û neke
+
+> * Piştî her tewra pejirandî pelên wêneyê çêbikin
+
+> Hûn neçar in ku piştî her peydakirina pelê arşîvên karê xwe çêbikin. Ji bo wêneyan, tenê pelê ku we sererast kirî bi naveroka ku we guherandî kopî bike û têxe, û wê di navnîşa `OldVersions /` de ya bi navê xwerû hilîne, li pey `_snapshot` paşê hejmarek ku li jor dîmenê berê 1 e, hilîne.
+
+> * Hin pelan neguherînin
+
+> Tenê karmendên di asta bilind de pejirandî dikarin hin pelan, wekî rûpelên Wiki, beşdarî.md, README.md, û lîsansê biguherînin.
+
+> * Di nivîsên şopandinê de zêde nekin
+
+> Di tu projeyên min de şopger destûr nadin. Ji kerema xwe deriyên paşîn, şopîner, rootkît, keylogger, û taybetmendiyên din ên êrîşkar ên nepenîtiyê ji her pelê dûr bigirin,
+
+> * Wê bi bandor bihêlin
+
+> Divê van rûpelan karibin bi lezgînî ji kêmtirî 10 megabît leza bandwîdtê barkirin. Ji kerema xwe performansa rûpelê nexapînin.
+
+> * Bê destûr wêneyan zêde nekin
+
+> Wêne ji bo vê projeyê hestiyar in û dê hewce be ku werin pejirandin berî ku werin kirin.
+
+Ji kerema xwe van rêbazan bişopînin da ku li vir pêşve biçin.
+
+***
+
+{KY} (Kyrgyz)
+
+# Салым кошуу
+
+BrandName 2D Котормо Модулуна салым кошууга уруксат берилген, эгер сиз ушул колдонмонун талаптарын аткарсаңыз:
+
+> * Аны профессионалдык деңгээлде сактаңыз
+
+> Кылган учурда ант ичүүдөн, сөгүнүүдөн жана башка жаман сөздөрдөн алыс болуңуз
+
+> * Ыкчам сүрөттөрдү өзгөртпөңүз
+
+> Snapshot файлдары барактардын эски версияларынын архиви катары кызмат кылат. Бул файлдарды түзөтпөңүз же жок кылбаңыз
+
+> * Ар бир тастыкталган милдеттенмеден кийин сүрөт сүрөтүн түзүңүз
+
+> Ар бир файлга берилгенден кийин, өз ишиңиздин архивин түзүшүңүз керек. Сүрөттөр үчүн, өзүңүз түзөткөн файлды көчүрүп, өзүңүздүн мазмунун менен чаптап, "OldVersions /" каталогуна баштапкы аты менен, андан кийин "_snapshot", андан мурунку сүрөтүнөн 1 жогору турган санды сактап коюңуз.
+
+> * Айрым файлдарды өзгөртпөңүз
+
+> Вики баракчалары, contributing.md, README.md жана лицензия сыяктуу белгилүү файлдарды гана жогорку деңгээлдеги колдонуучулар өзгөртө алышат.
+
+> * Көзөмөл сценарийлерине кошпогула
+
+> Менин бир дагы долбоорумда трекерлерге уруксат жок. Ар бир файлдан арткы эшиктерди, трекерлерди, руткиттерди, keyloggers жана башка купуялыктын инвазивдик өзгөчөлүктөрүн сактабаңыз,
+
+> * Натыйжалуу иштөө
+
+> Бул баракчалар өткөрмө ылдамдыгы 10 мегабиттен ашпаган ылдамдыкта тез жүктөлүшү керек. Сураныч, барактын иштешине тоскоол болбоңуз.
+
+> * Сүрөттөрдү уруксатсыз кошпогула
+
+> Сүрөттөр бул долбоор үчүн сезимтал жана аларды жасоодон мурун бекитилиши керек.
+
+Бул жерде иштеп чыгуу үчүн ушул эрежелерди сактаңыз.
+
 ***
 
 {KO} (Korean)
@@ -997,6 +2097,44 @@ Priksa manawa sampeyan kudu ngetutake aturan kasebut kanggo berkembang ing kene.
 
 @L
 
+{LO} Lao)
+
+# ປະກອບສ່ວນ
+
+ການປະກອບສ່ວນເຂົ້າໃນໂມດູນການແປ 2D ຂອງ SNU ແມ່ນຖືກອະນຸຍາດ, ຕາບໃດທີ່ທ່ານປະຕິບັດຕາມແນວທາງການປະກອບສ່ວນເຫຼົ່ານີ້:
+
+> * ຮັກສາມັນໃຫ້ເປັນມືອາຊີບ
+
+> ກະລຸນາລະເວັ້ນຈາກການໃຊ້ ຄຳ ປະຕິຍານ, ໃຊ້ ຄຳ ເວົ້າຫຍາບຄາຍຫລື ຄຳ ເວົ້າທີ່ບໍ່ດີອື່ນໆເມື່ອກະ ທຳ ຜິດ
+
+> * ຢ່າດັດແກ້ເອກະສານພາບຖ່າຍ
+
+ແຟ້ມເອກະສານ Snapshot ເຮັດ ໜ້າ ທີ່ເປັນບ່ອນເກັບເອກະສານເກົ່າຂອງ ໜ້າ ເກົ່າ. ຢ່າແກ້ໄຂຫລືລຶບໄຟລ໌ເຫຼົ່ານີ້
+
+> * ສ້າງແຟ້ມເອກະສານຫຼັງຈາກທີ່ໄດ້ຢັ້ງຢືນແຕ່ລະ ຄຳ ໝັ້ນ ສັນຍາ
+
+> ທ່ານຕ້ອງສ້າງເອກະສານເກັບມ້ຽນຂອງວຽກຂອງທ່ານຫຼັງຈາກແຕ່ລະ ຄຳ ໝັ້ນ ສັນຍາໃສ່ແຟ້ມເອກະສານ. ສຳ ລັບພາບບັນຍາກາດ, ພຽງແຕ່ຄັດລອກແລະວາງເອກະສານທີ່ທ່ານແກ້ໄຂດ້ວຍເນື້ອຫາທີ່ທ່ານແກ້ໄຂ, ແລະບັນທຶກມັນໄວ້ໃນໄດເລກະທໍລີ `OldVersions /` ທີ່ມີຊື່ເດີມ, ຕິດຕາມດ້ວຍ `_snapshot` ຈາກນັ້ນແມ່ນເລກທີ່ຢູ່ 1 ຂ້າງເທິງຂອງພາບຖ່າຍກ່ອນ ໜ້າ
+
+> * ຢ່າແກ້ໄຂເອກະສານແນ່ນອນ
+
+> ມີພຽງແຕ່ຜູ້ປະກອບສ່ວນລະດັບສູງທີ່ໄດ້ຮັບການອະນຸມັດເທົ່ານັ້ນທີ່ສາມາດດັດແປງເອກະສານທີ່ແນ່ນອນ, ເຊັ່ນວ່າ ໜ້າ Wikipedia, ການປະກອບສ່ວນ.m.m, README.md, ແລະໃບອະນຸຍາດ.
+
+> * ຢ່າຕື່ມໃສ່ໃນສະຄິບຕິດຕາມ
+
+> ຜູ້ຕິດຕາມບໍ່ໄດ້ຮັບອະນຸຍາດໃນໂຄງການໃດໆຂອງຂ້ອຍ. ກະລຸນາເກັບຮັກສາທາງຫລັງ, ຜູ້ຕິດຕາມ, rootkits, keylogger ແລະຄຸນລັກສະນະອື່ນໆທີ່ສະແດງອອກຈາກທຸກໆເອກະສານ,
+
+> * ຮັກສາມັນໃຫ້ມີປະສິດທິພາບ
+
+> ໜ້າ ເວັບເຫຼົ່ານີ້ຄວນຈະສາມາດໂຫລດໄດ້ໄວດ້ວຍຄວາມໄວແບນວິດຕໍ່າກວ່າ 10 ເມກາໄບ. ກະລຸນາຢ່າຫ້າມການປະຕິບັດຫນ້າ.
+
+> * ຢ່າຕື່ມຮູບພາບໂດຍບໍ່ໄດ້ຮັບອະນຸຍາດ
+
+> ຮູບພາບຕ່າງໆແມ່ນມີຄວາມລະອຽດອ່ອນ ສຳ ລັບໂຄງການນີ້ແລະຈະຕ້ອງໄດ້ຮັບການອະນຸມັດກ່ອນທີ່ພວກເຂົາຈະສາມາດປະຕິບັດໄດ້.
+
+ກະລຸນາຮັບປະກັນໃຫ້ປະຕິບັດຕາມກົດລະບຽບເຫຼົ່ານີ້ເພື່ອພັດທະນາຢູ່ທີ່ນີ້.
+
+***
+
 {LA} (Latin)
 
 # Contributing
@@ -1035,11 +2173,503 @@ Quaeso, scrutare sequi praecepta, ut his develop hic.
 
 ***
 
+{LV} (Latvian)
+
+# Piedalīšanās
+
+Ieguldījumi SNU 2D tulkošanas modulī ir atļauti, ja vien jūs ievērojat šīs veicinošās vadlīnijas:
+
+> * Saglabājiet to profesionāli
+
+> Lūdzu, atturieties no zvēresta, apvainojumu vai citu sliktu vārdu izmantošanas, veicot saistības
+
+> * Nemodificējiet momentuzņēmuma failus
+
+> Momentuzņēmuma faili kalpo kā veco lapu versiju arhīvs. Nerediģējiet un neizdzēsiet šos failus
+
+> * Izveidojiet momentuzņēmuma failus pēc katras verificētās saistības
+
+> Pēc katras saistības ar failu jums jāizveido sava darba arhīvi. Lai izveidotu momentuzņēmumus, vienkārši nokopējiet un ielīmējiet rediģēto failu ar rediģēto saturu un saglabājiet to direktorijā `OldVersions /` ar sākotnējo nosaukumu, kam seko `_snapshot`, pēc tam skaitlis, kas ir 1 virs iepriekšējā momentuzņēmuma
+
+> * Nemodificējiet noteiktus failus
+
+> Tikai apstiprināti augsta līmeņa līdzstrādnieki var modificēt noteiktus failus, piemēram, Wiki lapas, contributing.md, README.md un licenci.
+
+> * Nepievienot izsekošanas skriptos
+
+> Trekeri nav atļauti nevienā no maniem projektiem. Lūdzu, no katra faila glabājiet aizmugurējās durvis, izsekotājus, rootkitus, taustiņinstrumentus un citas privātuma aizsardzības funkcijas,
+
+> * Uzturiet to efektīvi
+
+> Šīs lapas vajadzētu ātri ielādēt ar mazāk nekā 10 megabitu joslas platuma ātrumu. Lūdzu, neaizkavējiet lapas veiktspēju.
+
+> * Nepievienojiet attēlus bez atļaujas
+
+> Attēli ir jutīgi attiecībā uz šo projektu, un tie būs jāapstiprina, pirms tos var izmantot.
+
+Lai izstrādātu šeit, lūdzu, ievērojiet šos noteikumus.
+
+***
+
+{LT} (Lithuanian)
+
+# Prisidedanti
+
+Indėliai prie „SNU 2D“ vertimo modulio leidžiami, jei laikotės šių prisidedančių gairių:
+
+> * Laikykitės profesionalumo
+
+> Prašau atsisakyti keiksmažodžių, šmeižto ar kitų blogų žodžių
+
+> * Nekeiskite momentinių nuotraukų failų
+
+> „Snapshot“ failai yra senų puslapių versijų archyvas. Negalima redaguoti ar ištrinti šių failų
+
+> * Sukurkite momentinių nuotraukų failus po kiekvieno patvirtinto įsipareigojimo
+
+> Po kiekvieno įsipareigojimo rinkmenai turite sukurti savo darbo archyvus. Norėdami gauti momentines nuotraukas, tiesiog nukopijuokite ir įklijuokite redaguotą failą su redaguotu turiniu ir išsaugokite jį kataloge `OldVersions /` su originaliu pavadinimu, po kurio eina `_snapshot`, tada skaičius yra 1 virš ankstesnės momentinės nuotraukos
+
+> * Nekeiskite tam tikrų failų
+
+> Tik patvirtinti aukšto lygio bendraautoriai gali keisti tam tikrus failus, pvz., „Wiki“ puslapius, „contributing.md“, „README.md“ ir licenciją.
+
+> * Nepridėkite stebėjimo scenarijų
+
+> Trekeriai neleidžiami jokiuose mano projektuose. Prašome kiekviename faile laikyti užpakalines duris, sekimo įrenginius, šakninius rinkinius, klavišų rinkiklius ir kitas privatumui kenkiančias funkcijas,
+
+> * Laikykitės efektyvumo
+
+> Šiuos puslapius turėtų būti galima greitai įkelti naudojant mažiau nei 10 megabitų pralaidumo greitį. Nepamirškite puslapio našumo.
+
+> * Nepridėkite vaizdų be leidimo
+
+> Vaizdai yra jautrūs šiam projektui ir juos reikės patvirtinti, kad juos būtų galima panaudoti.
+
+Norėdami sukurti čia, būtinai laikykitės šių taisyklių.
+
+***
+
+{LB} (Luxembourgish)
+
+# Bäidroen
+
+Contributiounen zum SNU 2D Iwwersetzungsmodul sinn erlaabt, soulaang Dir dës contribuéierend Richtlinnen befollegt:
+
+> * Halt et professionell
+
+> Verweist Iech w.e.g. net vu Vereedegung, vu Schläeren oder anere schlechte Wierder beim Asaz
+
+> * Ännerung keng Snapshot Dateien
+
+> Snapshot Dateien déngen als Archiv vun ale Versioune vu Säiten. Wëllt dës Dateien net änneren oder läschen
+
+> * Erstellt Snapshot Dateien no all verifizéierter Verpflichtung
+
+> Dir musst Archiven vun Ärer Aarbecht erstellen nodeems Dir all eng Datei verflicht hutt. Fir Schnappschëss, kopéiert just a pecht déi Datei déi Dir geännert hutt mat dem Inhalt deen Dir geännert hutt a späichert se am "OldVersions /" Verzeechnes mam Original Numm, gefollegt vun "_snapshot" dann eng Nummer déi 1 iwwer dem viregte Snapshot
+
+> * Ännerung verschidde Dateien net
+
+> Nëmme guttgeheescht High-Level Contributeure kënne verschidde Dateie änneren, wéi Wiki Säiten, contributing.md, README.md, an d'Lizenz.
+
+> * Füügt net a Tracking Scripten bäi
+
+> Trackers sinn a keng vu menge Projeten erlaabt. Halt w.e.g. Backdoors, Tracker, Rootkits, Keyloggers an aner Privatsphär invasiv Features aus all Datei,
+
+> * Halt et effizient
+
+> Dës Säiten solle séier mat manner wéi 10 Megabit Bandbreetgeschwindegkeet luede kënnen. W.e.g. verpasst d'Säit Performance net.
+
+> * Füügt keng Biller bäi ouni Erlaabnis
+
+> Biller si sensibel fir dëse Projet a musse guttgeheescht ginn ier se kënnen engagéiert ginn.
+
+Gitt sécher datt Dir dës Regele befollegt fir hei z'entwéckelen.
+
+***
+
 @M
+
+{MK} (Macedonian)
+
+# Придонесувате
+
+Придонесите во модулот за превод на SNU 2D се дозволени, сè додека ги следите овие упатства што придонесуваат:
+
+> * Чувајте го професионално
+
+> Ве молиме, воздржувајте се од употреба на пцовки, употреба на лажни зборови или други лоши зборови при извршување
+
+> * Не менувајте датотеки со слика
+
+> Датотеките со слики служат како архива на стари верзии на страници. Не ги уредувајте или бришете овие датотеки
+
+> * Креирајте датотеки за слика по секое проверено извршување
+
+> Треба да креирате архиви на вашата работа по секое извршување на датотека. За слики, само копирајте ја и залепете ја датотеката што ја уредувавте со содржината што ја уредувавте и зачувајте ја во директориумот `OldVersions /` со оригиналното име, проследено со `_snapshot`, потоа број кој е 1 над претходната слика
+
+> * Не менувајте одредени датотеки
+
+> Само одобрени соработници на високо ниво можат да менуваат одредени датотеки, како што се страници на Вики, придонесувајќи.md, README.md и лиценцата.
+
+> * Не додавајте во скрипти за следење
+
+> Тракерите не се дозволени во ниту еден мој проект. Чувајте ги задните врати, тракери, rootkits, клучни блогери и други инвазивни одлики за приватност од секоја датотека,
+
+> * Чувајте го ефикасно
+
+> Овие страници треба брзо да се вчитаат со помалку од 10 мегабити брзина на ширина на опсег. Ве молиме, не замавнувајте со перформансите на страницата.
+
+> * Не додавајте слики без дозвола
+
+> Сликите се чувствителни за овој проект и ќе треба да бидат одобрени пред да бидат направени.
+
+Ве молиме, проверете дали ги следите овие правила за да ги развиете тука.
+
+***
+
+{MG} (Malagasy)
+
+# Manome
+
+Nahazoana alalana ny fandraisana anjara amin'ny Module fandikan-teny SNU 2D, raha manaraka ireo toro lalana manome anao ireo ianao:
+
+> * Ataovy ho matihanina
+
+> Aza fady intsony ny miteny ratsy, na miteny ratsy, na teny ratsy hafa rehefa manao
+
+> * Aza ovaina ny rakitra snapshot
+
+> Ny rakitra Snapshot dia arisivan'ny pejy taloha. Aza manitsy na mamafa ireo fisie ireo
+
+> * Mamorona rakitra snapshot isaky ny vita voamarina
+
+> Mila mamorona arisivan'ny asanao ianao isaky ny manolo-tena amin'ny rakitra. Ho an'ny snapshot, adikao fotsiny ary apetaho ilay rakitra izay novainao niaraka tamin'ny atiny nasianao fanitsiana, ary tahirizo ao amin'ny lahatahiry `OldVersions /` miaraka amin'ilay anarana tany am-boalohany, arahin'ilay `_snapshot` avy eo isa iray izay 1 ambonin'ny pikantsary teo aloha
+
+> * Aza manova rakitra sasany
+
+> Ireo mpandray anjara avo lenta nekena ihany no afaka manova rakitra sasantsasany, toy ny pejy Wiki, contributor.md, README.md, ary ny lisansa.
+
+> * Aza manampy amin'ny fanarahana script
+
+> Tsy mahazo miditra amin'ny tetikasako ny mpanara-maso. Azafady mba ataovy ao ambadiky ny rakitra rehetra ny backdoors, trackers, rootkit, keyloggers, ary endri-javatra manafika hafa momba ny fiainana manokana.
+
+> * Ataovy mahomby
+
+> Ireo pejy ireo dia tokony ho afaka mamaky haingana miaraka amin'ny hafainganam-pandeha 10 megabits hafainganam-pandeha. Azafady aza esorina ny zava-bitan'ny pejy.
+
+> * Aza manampy sary raha tsy mahazo alalana
+
+> Mampihetsi-po ny sary amin'ity tetikasa ity ary mila ekena alohan'ny hanatanterahana izany.
+
+Azafady mba alao antoka fa hanaraka ireo fitsipika ireo hivoatra eto.
+
+***
+
+{MS} (Malay)
+
+# Menyumbang
+
+Sumbangan ke Modul Terjemahan 2D Jenama dibenarkan, selagi anda mengikuti garis panduan penyumbang ini:
+
+> * Tetap profesional
+
+> Jangan menahan diri dari menggunakan sumpah, menggunakan celaan, atau kata-kata buruk lain ketika melakukan
+
+> * Jangan ubah fail snapshot
+
+> Fail snapshot berfungsi sebagai arkib halaman versi lama. Jangan edit atau hapus fail ini
+
+> * Buat fail snapshot setelah setiap komit yang disahkan
+
+> Anda harus membuat arkib hasil kerja anda setelah masing-masing membuat fail. Untuk snapshot, salin dan tampal fail yang anda edit dengan isi yang anda edit, dan simpan di direktori `OldVersions /` dengan nama asalnya, diikuti oleh `_snapshot` kemudian angka yang 1 di atas snapshot sebelumnya
+
+> * Jangan ubah fail tertentu
+
+> Hanya penyumbang peringkat tinggi yang diluluskan yang dapat mengubah fail tertentu, seperti halaman Wiki, menyumbang.md, README.md, dan lesen.
+
+> * Jangan tambahkan skrip penjejakan
+
+> Penjejak tidak dibenarkan dalam mana-mana projek saya. Jauhkan pintu belakang, pelacak, rootkit, keyloggers, dan ciri invasif privasi lain dari setiap fail,
+
+> * Pastikan ia cekap
+
+> Halaman-halaman ini seharusnya dapat dimuat dengan cepat dengan kelajuan lebar jalur kurang dari 10 megabit. Jangan menyekat prestasi halaman.
+
+> * Jangan tambahkan gambar tanpa kebenaran
+
+> Imej sensitif untuk projek ini dan perlu diluluskan sebelum dapat dilaksanakan.
+
+Pastikan anda mengikuti peraturan ini untuk dikembangkan di sini.
+
+***
+
+{ML} (Malayalam)
+
+# സംഭാവന ചെയ്യുന്നു
+
+സംഭാവന ചെയ്യുന്ന ഈ മാർ‌ഗ്ഗനിർ‌ദ്ദേശങ്ങൾ‌ നിങ്ങൾ‌ പാലിക്കുന്നിടത്തോളം കാലം ബ്രാൻഡ്‌നെയിം 2 ഡി വിവർ‌ത്തന മൊഡ്യൂളിലേക്കുള്ള സംഭാവന അനുവദനീയമാണ്:
+
+> * ഇത് പ്രൊഫഷണലായി സൂക്ഷിക്കുക
+
+> ശപഥം ചെയ്യൽ, അധിക്ഷേപം അല്ലെങ്കിൽ മറ്റ് മോശം വാക്കുകൾ എന്നിവ ഒഴിവാക്കുക
+
+> * സ്നാപ്പ്ഷോട്ട് ഫയലുകൾ പരിഷ്കരിക്കരുത്
+
+> സ്നാപ്പ്ഷോട്ട് ഫയലുകൾ പേജുകളുടെ പഴയ പതിപ്പുകളുടെ ഒരു ആർക്കൈവായി വർത്തിക്കുന്നു. ഈ ഫയലുകൾ എഡിറ്റുചെയ്യുകയോ ഇല്ലാതാക്കുകയോ ചെയ്യരുത്
+
+> * പരിശോധിച്ചുറപ്പിച്ച ഓരോ കമ്മിറ്റിനും ശേഷം സ്നാപ്പ്ഷോട്ട് ഫയലുകൾ സൃഷ്ടിക്കുക
+
+> ഓരോ ഫയലിനും പ്രതിജ്ഞാബദ്ധമായതിന് ശേഷം നിങ്ങളുടെ സൃഷ്ടിയുടെ ആർക്കൈവുകൾ സൃഷ്ടിക്കേണ്ടതുണ്ട്. സ്നാപ്പ്ഷോട്ടുകൾക്കായി, നിങ്ങൾ എഡിറ്റുചെയ്ത ഉള്ളടക്കങ്ങൾ ഉപയോഗിച്ച് നിങ്ങൾ എഡിറ്റുചെയ്ത ഫയൽ പകർത്തി ഒട്ടിക്കുക, അത് യഥാർത്ഥ പേരിനൊപ്പം `പഴയ പതിപ്പുകൾ /` ഡയറക്ടറിയിൽ സംരക്ഷിക്കുക, തുടർന്ന് `_സ്നാപ്പ്ഷോട്ട്`, തുടർന്ന് മുമ്പത്തെ സ്നാപ്പ്ഷോട്ടിന് മുകളിലുള്ള 1 നമ്പർ
+
+> * ചില ഫയലുകൾ പരിഷ്‌ക്കരിക്കരുത്
+
+> വിക്കി പേജുകൾ, കോൺട്രിബ്യൂട്ടിംഗ് എംഡി, README.md, ലൈസൻസ് എന്നിവ പോലുള്ള ചില ഫയലുകൾ പരിഷ്കരിക്കാൻ അംഗീകൃത ഉയർന്ന തലത്തിലുള്ള സംഭാവകർക്ക് മാത്രമേ കഴിയൂ.
+
+> * ട്രാക്കിംഗ് സ്ക്രിപ്റ്റുകളിൽ ചേർക്കരുത്
+
+> എന്റെ ഒരു പ്രോജക്റ്റിലും ട്രാക്കർമാരെ അനുവദിക്കില്ല. ബാക്ക്‌ഡോർ, ട്രാക്കറുകൾ, റൂട്ട്കിറ്റുകൾ, കീലോഗറുകൾ, മറ്റ് സ്വകാര്യത ആക്രമണ സവിശേഷതകൾ എന്നിവ ഓരോ ഫയലിൽ നിന്നും സൂക്ഷിക്കുക,
+
+> * ഇത് കാര്യക്ഷമമായി സൂക്ഷിക്കുക
+
+> ഈ പേജുകൾക്ക് 10 മെഗാബൈറ്റിൽ താഴെയുള്ള ബാൻഡ്‌വിഡ്ത്ത് വേഗത വേഗത്തിൽ ലോഡുചെയ്യാനാകും. പേജ് പ്രകടനം തട്ടിമാറ്റരുത്.
+
+> * അനുമതിയില്ലാതെ ചിത്രങ്ങൾ ചേർക്കരുത്
+
+> ഇമേജുകൾ‌ ഈ പ്രോജക്റ്റിനായി സെൻ‌സിറ്റീവ് ആണ്, മാത്രമല്ല അവ പ്രതിജ്ഞാബദ്ധമാകുന്നതിന് മുമ്പായി അംഗീകരിക്കേണ്ടതുണ്ട്.
+
+ഇവിടെ വികസിപ്പിക്കുന്നതിന് ദയവായി ഈ നിയമങ്ങൾ പാലിക്കുന്നുണ്ടെന്ന് ഉറപ്പാക്കുക.
+
+***
+
+{MT} (Maltese)
+
+# Kontribut
+
+Kontribuzzjonijiet għall-Modulu tat-Traduzzjoni 2D tal-SNU huma permessi, sakemm issegwi dawn il-linji gwida li jikkontribwixxu:
+
+> * Żommha professjonali
+
+> Jekk jogħġbok żomm lura milli tuża ġurament, użu ta 'slurs, jew kliem ħażin ieħor meta tikkommetti
+
+> * Timmodifikax fajls ta 'stampa
+
+> Snapshot files iservu bħala arkivju ta 'verżjonijiet qodma ta' paġni. Teditjax jew tħassarx dawn il-fajls
+
+> * Oħloq snapshot files wara kull commit vverifikat
+
+> Int trid toħloq arkivji tax-xogħol tiegħek wara kull impenn għal fajl. Għal snapshots, sempliċement kopja u paste tal-fajl li editjajt mal-kontenut li editjajt, u ħlief fid-direttorju "OldVersions /" bl-isem oriġinali, segwit minn "_snapshot" imbagħad numru li huwa 1 'il fuq mis-snapshot preċedenti
+
+> * Timmodifikax ċerti fajls
+
+> Kontributuri ta 'livell għoli approvati biss jistgħu jimmodifikaw ċerti fajls, bħal paġni tal-Wiki, contributing.md, README.md, u l-liċenzja.
+
+> * Tiżdiedx fl-iskripts tat-traċċar
+
+> It-trackers mhumiex permessi fl-ebda proġett tiegħi. Jekk jogħġbok żomm il-bibien ta 'wara, trackers, rootkits, keyloggers, u karatteristiċi oħra invażivi tal-privatezza minn kull fajl,
+
+> * Żommha effiċjenti
+
+> Dawn il-paġni għandhom ikunu jistgħu jitgħabbew malajr b'inqas minn 10 megabits ta 'veloċità tal-bandwidth. Jekk jogħġbok ma tfixkilx il-prestazzjoni tal-paġna.
+
+> * M'għandekx iżżid immaġini mingħajr permess
+
+> L-immaġini huma sensittivi għal dan il-proġett u jeħtieġ li jiġu approvati qabel ma jkunu jistgħu jiġu impenjati.
+
+Jekk jogħġbok kun żgur li ssegwi dawn ir-regoli biex tiżviluppa hawn.
+
+***
+
+{MI} (Maori)
+
+# Takoha
+
+Ka whakaaetia nga takoha ki te Tohu Whakamaoritanga Waitohu 2D, mena ka whai koe i enei aratohu takoha:
+
+> * Waiho kia ngaio
+
+> Tena koa ki te aukati i te oati, te whakamahi i te kohukohu, me etahi atu kupu kino ranei ina mahi koe
+
+> * Kaua e whakarereke i nga konae kopere
+
+> Ko nga konae Whakaahuatanga ka waiho hei koputu mo nga wharangi tawhito o nga whaarangi. Kaua e whakatika, kia whakakorea ranei enei konae
+
+> * Hangaia he konae whakaahua i muri i ia whakatuturutanga
+
+> Me hanga e koe he koputu mo a raatau mahi i muri i tana tuku ki tetahi konae. Mo nga whakaahua, tika kape me te whakapiri i te konae i whakatikaia e koe me nga tuhinga i whakatinanahia e koe, ka penapena ki te raarangi "OldVersions /` me te ingoa taketake, ka whai ake ko "_snapshot` me te nama 1 kei runga ake o te whakaahua o mua.
+
+> * Kaua e whakarereketia etahi konae
+
+> Ko nga kaiwhakarato taumata-nui kua whakaaetia anake ka taea te whakarereke i etahi konae, penei i nga whaarangi Wiki, te takoha.md, README.md, me te raihana.
+
+> * Kaua e tapirihia nga tuhinga tuhi
+
+> Kaore e whakaaehia nga kaiwhaiwhai i roto i aku kaupapa. Tena koa waiho i muri, i nga kaiwhai, i nga rootkit, i nga kaikawe matua, me era atu momo whakaraerae muna mo nga konae katoa.
+
+> * Kia pai te mahi
+
+> Ko enei whaarangi kia tere te uta me te iti ake i te 10 megabits o te tere bandwidth. Tena koa kaua e whakakorehia nga mahi whaarangi.
+
+> * Kaua e taapirihia nga whakaahua me te kore whakaaetanga
+
+> He tairongo nga whakaahua mo tenei kaupapa a me whakaae ke i mua i te whakatutukitanga.
+
+Tena koa kia whai i enei ture kia whanake i konei.
+
+***
+
+{MR} (Marathi)
+
+# सहयोग देत आहे
+
+जोपर्यंत आपण या योगदान दिशानिर्देशांचे अनुसरण करीत नाही तोपर्यंत ब्रँडनेम 2 डी भाषांतर मॉड्यूलमधील योगदानास परवानगी आहे:
+
+> * ते व्यावसायिक ठेवा
+
+> कृपया वचन देताना शपथ घेणे, स्लूर वापरणे किंवा इतर वाईट शब्द वापरण्यास टाळा
+
+> * स्नॅपशॉट फायली सुधारित करू नका
+
+> स्नॅपशॉट फायली पृष्ठांच्या जुन्या आवृत्तीचे संग्रहण म्हणून काम करतात. या फायली संपादित करू किंवा हटवू नका
+
+> * प्रत्येक सत्यापित वचनबद्धतेनंतर स्नॅपशॉट फायली तयार करा
+
+> प्रत्येक फाइलमध्ये वचन दिल्यानंतर आपल्याला आपल्या कार्याचे संग्रहण तयार करावे लागतील. स्नॅपशॉट्ससाठी, आपण संपादित केलेल्या सामग्रीसह आपण संपादित केलेली फाइल फक्त कॉपी आणि पेस्ट करा आणि त्या मूळ नावासह `ओल्डव्हर्शन /` निर्देशिकेत जतन करा, त्यानंतर `_ स्नॅपशॉट` त्यानंतर मागील स्नॅपशॉटच्या वर 1 असा क्रमांक
+
+> * विशिष्ट फायली सुधारू नका
+
+> केवळ मंजूर उच्च-स्तरीय योगदानकर्ते विकी पृष्ठे, योगदानाची.एमडी, README.md आणि परवाना यासारख्या काही फायली सुधारित करु शकतात.
+
+> * ट्रॅकिंग स्क्रिप्टमध्ये जोडू नका
+
+> माझ्या कोणत्याही प्रकल्पात ट्रॅकर्सना परवानगी नाही. कृपया प्रत्येक फाईलच्या बाहेर बॅकडोर, ट्रॅकर, रूटकिट्स, कीलॉगर आणि इतर गोपनीयता आक्रमक वैशिष्ट्ये ठेवा,
+
+> * कार्यक्षम ठेवा
+
+> ही पृष्ठे 10 मेगाबिटपेक्षा कमी बँडविड्थ गतीने द्रुतपणे लोड करण्यात सक्षम असतील. कृपया पृष्ठाच्या कामगिरीवर जोर देऊ नका.
+
+> * परवानगीशिवाय प्रतिमा जोडू नका
+
+> या प्रकल्पासाठी प्रतिमा संवेदनशील आहेत आणि वचनबद्ध होण्यापूर्वी त्यांना मंजूर करणे आवश्यक आहे.
+
+कृपया येथे विकसित करण्यासाठी या नियमांचे अनुसरण करण्याचे सुनिश्चित करा.
+
+***
+
+{MN} (Mongolian)
+
+# Хувь нэмэр оруулж байна
+
+SNU 2D орчуулгын модульд хувь нэмэр оруулахыг та эдгээр хувь нэмэр оруулах удирдамжийг дагаж мөрдөхийг зөвшөөрнө.
+
+> * Үүнийг мэргэжлийн түвшинд байлга
+
+> Хийхдээ хараалын үг хэлэх, хараалын үг хэлэх, бусад муу үг хэлэхээс татгалзаарай
+
+> * Хормын хувилбарын файлыг бүү өөрчил
+
+> Snapshot файлууд нь хуудасны хуучин хувилбаруудын архив болж өгдөг. Эдгээр файлуудыг засах эсвэл устгахгүй байх
+
+> * Баталгаажсан үйлдэл бүрийн дараа хормын хувилбарын файл үүсгэх
+
+> Файлд файл хийсний дараа та ажлынхаа архивыг үүсгэх хэрэгтэй. Хормын хувилбаруудын хувьд засварласан файлынхаа агуулгыг хуулж аваад буулгаж өгөөд "OldVersions /" директор дээр анхны нэрээр хадгалаад дараа нь "_snapshot" гэж оруулаад дараа нь өмнөх хормын хувилбараас 1-ээр дээш тоог оруулна уу.
+
+> * Зарим файлуудыг бүү өөрчил
+
+> Зөвхөн зөвшөөрөгдсөн өндөр түвшний хувь нэмэр оруулагчид Wiki хуудсууд, contributing.md, README.md, лиценз зэрэг тодорхой файлуудыг өөрчлөх боломжтой.
+
+> * Хяналтын скрипт дээр нэмж оруулахгүй байх
+
+> Миний аль ч төсөлд трекер хийхийг хориглоно. Арын хаалга, трекер, rootkits, keylogger болон бусад нууцлалын бусад шинж чанаруудыг файл бүрээс хол байлгаж,
+
+> * Үүнийг үр дүнтэй байлга
+
+> Эдгээр хуудсууд нь 10 мегабитаас бага зурвасын өргөнөөр хурдан ачаалах боломжтой байх ёстой. Хуудасны гүйцэтгэлийг бүү мартаарай.
+
+> * Зургийг зөвшөөрөлгүй нэмж бүү оруулаарай
+
+> Зураг нь энэ төслийн хувьд мэдрэмтгий тул тэдгээрийг хийхээс өмнө батлах шаардлагатай болно.
+
+Энд боловсруулахын тулд эдгээр дүрмийг дагаж мөрдөөрэй.
+
+***
+
+{MY} (Myanmar (Burmese))
+
+# ပံ့ပိုး
+
+ဤအထောက်အကူပြုလမ်းညွှန်ချက်များကိုသင်လိုက်နာနေသမျှကာလပတ်လုံး SNU 2D ဘာသာပြန်ခြင်း Module ကိုထည့်ဝင်ခွင့်ပြုနိုင်သည်။
+
+ပရော်ဖက်ရှင်နယ်ထားပါ
+
+> ကျူးလွန်သည့်အခါကျိန်ဆိုခြင်း၊ စကားလုံးများသုံးခြင်းသို့မဟုတ်အခြားမကောင်းသောစကားလုံးများအသုံးပြုခြင်းကိုရှောင်ပါ
+
+> လျှပ်တစ်ပြက်ဖိုင်များကိုပြုပြင်မွမ်းမံပါ
+
+Snapshot ဖိုင်များသည်ဗားရှင်းအဟောင်းများ၏မှတ်တမ်းအဖြစ်ဆောင်ရွက်သည်။ ဤဖိုင်များကိုတည်းဖြတ်ခြင်းနှင့်ဖျက်ခြင်းမပြုရ
+
+အတည်ပြုပြီးသည့်လုပ်ဆောင်မှုတစ်ခုပြီးတိုင်းပုံသေဖိုင်များကိုဖန်တီးပါ
+
+ဖိုင်တစ်ခုအားကျူးလွန်ပြီးနောက်သင်၏အလုပ်၏မော်ကွန်းတိုက်များကိုသင်ဖန်တီးရမည်။ လျှပ်တစ်ပြက်ရိုက်ချက်များအတွက်သင်တည်းဖြတ်လိုက်သောဖိုင်များကိုသင်ကူးယူပြီးပါကကူးယူပြီးကူးယူပါ။ ၎င်းကိုမူရင်းအမည်ပါ `OldVersions /` ဖိုင်တွဲတွင်သိမ်းဆည်းပါ၊ ထို့နောက် `_snapshot` နောက်တွင်ယခင်ရိုက်ချက်အထက် ၁ ရှိသည့်နံပါတ်ကိုနှိပ်ပါ
+
+> * အချို့သောဖိုင်များကိုပြုပြင်မွမ်းမံပါ
+
+> ခွင့်ပြုထားသောအဆင့်မြင့်ပံ့ပိုးသူများသာ Wiki စာမျက်နှာများ၊ contributing.md, README.md နှင့်လိုင်စင်ကဲ့သို့သောအချို့သောဖိုင်များကိုပြုပြင်နိုင်သည်။
+
+> ခြေရာခံ scripts တွင်ထည့်သွင်းမထားပါနဲ့
+
+> ကျွန်ုပ်၏မည်သည့်စီမံကိန်းများတွင်မဆို tracker များကိုခွင့်မပြုပါ။ ကျေးဇူးပြု၍ Backdoors, tracker, rootkits, keylogger နှင့်အခြား privacy invasive features များကိုဖိုင်တိုင်းတွင်သိမ်းထားပါ။
+
+> * ထိရောက်စွာထားပါ
+
+> ဤစာမျက်နှာများသည် bandwidth မြန်နှုန်း 10 megabits ထက် နည်း၍ မြန်မြန်ဆန်ဆန် load လုပ်သင့်သည်။ စာမျက်နှာစွမ်းဆောင်ရည်ကိုမနှိမ့်ချပါနှင့်။
+
+> * ပုံများကိုခွင့်ပြုချက်မပါဘဲမထည့်ပါနှင့်
+
+> ပုံများသည်ဤစီမံကိန်းအတွက်အထိခိုက်မခံသောကြောင့်မကျူးလွန်မီအတည်ပြုရန်လိုသည်။
+
+ဤနေရာတွင်ဖွံ့ဖြိုးတိုးတက်ရန်ဤစည်းမျဉ်းများကိုလိုက်နာရန်သေချာစေပါ။
 
 ***
 
 @N
+
+{NE} (Nepali)
+
+# योगदान
+
+ब्रान्डनाम २ डी अनुवाद मोड्युलमा योगदानहरूलाई अनुमति छ, जबसम्म तपाईं यी योगदान दिशानिर्देशहरू पालना गर्नुहुन्छ:
+
+> * यसलाई व्यावसायिक राख्नुहोस्
+
+> शपथ लिँदा, स्लुरहरू प्रयोग गर्दा वा अरू कम शब्दहरू प्रयोग गर्दा प्रतिबद्ध गर्नुहोस्
+
+> * स्न्यापशट फाईलहरू परिमार्जन नगर्नुहोस्
+
+> स्न्यापशट फाईलहरूले पृष्ठहरूको पुरानो संस्करणको संग्रहको रूपमा काम गर्दछ। यी फाईलहरू सम्पादन वा मेटाउने नगर्नुहोस्
+
+> * प्रत्येक प्रमाणित कमिट पछि स्न्यापशट फाईलहरू सिर्जना गर्नुहोस्
+
+> तपाईंले आफ्नो कामको अभिलेखहरू फाईलमा प्रत्येक कमिट पछि सिर्जना गर्नुपर्नेछ। स्न्यापशटको लागि मात्र, तपाईंले सम्पादन गर्नुभएको सामग्रीका साथ प्रतिलिपि गरिएको फाइल प्रतिलिपि गर्नुहोस् र टाँस्नुहोस्, र it _Snapshot` पछिको मूल नामको साथ ``OldVersions /` डाइरेक्टरीमा बचत गर्नुहोस्, त्यसपछि नम्बर जुन पछिल्लो स्न्यापशट माथि १ छ।
+
+> * केहि फाईलहरू परिमार्जन नगर्नुहोस्
+
+> केवल अनुमोदित उच्च-स्तर योगदानकर्ताहरूले केहि फाईलहरू परिमार्जन गर्न सक्दछन्, जस्तै विकी पृष्ठहरू, योगदाना। md, README.md, र इजाजत पत्र।
+
+> * ट्र्याकि sc स्क्रिप्टहरूमा नथप्नुहोस्
+
+> ट्र्याकरहरूलाई मेरो कुनै पनि परियोजनाहरूमा अनुमति छैन। कृपया ब्याकडोरहरू, ट्र्याकरहरू, रूटकिट्स, कीलोगरहरू, र अन्य गोपनीयता इनभ्यासिभ सुविधाहरू प्रत्येक फाईल बाहिर राख्नुहोस्,
+
+> * यसलाई कुशल राख्नुहोस्
+
+> यी पृष्ठहरू ब्यान्डविथ गतिको १० मेगाबाइट भन्दा कमको साथ द्रुत रूपमा लोड गर्न सक्षम हुनुपर्दछ। कृपया पृष्ठ प्रदर्शनलाई ठुलो नगर्नुहोस्।
+
+> * अनुमति बिना छविहरू नथप्नुहोस्
+
+> छविहरू यस परियोजनाको लागि संवेदनशील छन् र तिनीहरूलाई प्रतिबद्ध गर्नु अघि अनुमोदन आवश्यक पर्दछ।
+
+कृपया यहाँ विकास गर्नको लागि यी नियमहरूको पालना गर्न निश्चित गर्नुहोस्।
+
+***
 
 {NO} (Norwegian)
 
@@ -1077,7 +2707,45 @@ Bidrag til SNU 2D-oversettelsesmodulen er tillatt, så lenge du følger disse me
 
 Sørg for å følge disse reglene for å utvikle deg her.
 
+***
+
 @O
+
+{OR} (Odia (Oriya))
+
+# ଯୋଗଦାନ
+
+ବ୍ରାଣ୍ଡନାମ 2D ଅନୁବାଦ ମଡ୍ୟୁଲରେ ଯୋଗଦାନ ଅନୁମତିପ୍ରାପ୍ତ, ଯେପର୍ଯ୍ୟନ୍ତ ଆପଣ ଏହି ଯୋଗଦାନ ନିର୍ଦ୍ଦେଶାବଳୀ ଅନୁସରଣ କରିବେ:
+
+> * ଏହାକୁ ବୃତ୍ତିଗତ ରଖନ୍ତୁ |
+
+> ଦୟାକରି ଶପଥ, ବ୍ୟବହାର କରିବା କିମ୍ବା ଅନ୍ୟାନ୍ୟ ଖରାପ ଶବ୍ଦ ବ୍ୟବହାର କରିବା ଠାରୁ ଦୂରେଇ ରୁହନ୍ତୁ |
+
+> * ସ୍ନାପସଟ୍ ଫାଇଲଗୁଡ଼ିକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ ନାହିଁ |
+
+> ସ୍ନାପସଟ୍ ଫାଇଲଗୁଡିକ ପୃଷ୍ଠାଗୁଡ଼ିକର ପୁରୁଣା ସଂସ୍କରଣର ଅଭିଲେଖ ଭାବରେ କାର୍ଯ୍ୟ କରେ | ଏହି ଫାଇଲଗୁଡିକ ସଂପାଦନ କିମ୍ବା ବିଲୋପ କରନ୍ତୁ ନାହିଁ |
+
+> * ପ୍ରତ୍ୟେକ ଯାଞ୍ଚ ପରେ ସ୍ନାପସଟ୍ ଫାଇଲ୍ ସୃଷ୍ଟି କରନ୍ତୁ |
+
+> ପ୍ରତ୍ୟେକ ଫାଇଲ୍ ପ୍ରତି ପ୍ରତିବଦ୍ଧ ହେବା ପରେ ତୁମ କାର୍ଯ୍ୟର ଅଭିଲେଖାଗାର ସୃଷ୍ଟି କରିବାକୁ ପଡିବ | ସ୍ନାପସଟ୍ ପାଇଁ, ତୁମେ ସମ୍ପାଦିତ ବିଷୟବସ୍ତୁ ସହିତ ତୁମେ ସଂପାଦିତ ହୋଇଥିବା ଫାଇଲକୁ କେବଳ କପି ଏବଂ ଲେପନ କର, ଏବଂ ଏହାକୁ ମୂଳ ନାମ ସହିତ "OldVersions /" ଡିରେକ୍ଟୋରୀରେ ସେଭ୍ କର, ତା’ପରେ "_ ସ୍ନାପସଟ୍" ତାପରେ ଏକ ସଂଖ୍ୟା ଯାହା ପୂର୍ବ ସ୍ନାପସଟ୍ ଠାରୁ 1 ଅଧିକ |
+
+> * କିଛି ଫାଇଲ୍ ସଂଶୋଧନ କରନ୍ତୁ ନାହିଁ |
+
+> କେବଳ ଅନୁମୋଦିତ ଉଚ୍ଚ ସ୍ତରୀୟ ଯୋଗଦାନକାରୀମାନେ କିଛି ଫାଇଲକୁ ପରିବର୍ତ୍ତନ କରିପାରିବେ, ଯେପରିକି ୱିକି ପୃଷ୍ଠା, ଅବଦାନ.md, README.md, ଏବଂ ଲାଇସେନ୍ସ |
+
+> * ଟ୍ରାକିଂ ସ୍କ୍ରିପ୍ଟରେ ଯୋଡନ୍ତୁ ନାହିଁ |
+
+> ମୋର କ projects ଣସି ପ୍ରୋଜେକ୍ଟରେ ଟ୍ରାକର୍ ଅନୁମତିପ୍ରାପ୍ତ ନୁହେଁ | ଦୟାକରି ପ୍ରତ୍ୟେକ ଫାଇଲରୁ ବ୍ୟାକଡୋର୍, ଟ୍ରାକର୍, ରୁଟ୍କିଟ୍, କିଲଗର୍, ଏବଂ ଅନ୍ୟାନ୍ୟ ଗୋପନୀୟତା ଆକ୍ରମଣକାରୀ ବ features ଶିଷ୍ଟ୍ୟ ରଖନ୍ତୁ,
+
+> * ଏହାକୁ କାର୍ଯ୍ୟକ୍ଷମ ରଖନ୍ତୁ |
+
+> ଏହି ପୃଷ୍ଠାଗୁଡ଼ିକ 10 ମେଗାବାଇଟରୁ କମ୍ ବ୍ୟାଣ୍ଡୱିଡଥ୍ ସ୍ପିଡ୍ ସହିତ ଶୀଘ୍ର ଲୋଡ୍ କରିବାକୁ ସମର୍ଥ ହେବା ଉଚିତ୍ | ଦୟାକରି ପୃଷ୍ଠା କାର୍ଯ୍ୟଦକ୍ଷତାକୁ ବଗ୍ କରନ୍ତୁ ନାହିଁ |
+
+> * ବିନା ଅନୁମତିରେ ପ୍ରତିଛବି ଯୋଡନ୍ତୁ ନାହିଁ |
+
+> ପ୍ରତିଛବିଗୁଡିକ ଏହି ପ୍ରକଳ୍ପ ପାଇଁ ସମ୍ବେଦନଶୀଳ ଏବଂ ସେଗୁଡିକ ପ୍ରତିବଦ୍ଧ ହେବା ପୂର୍ବରୁ ଅନୁମୋଦନ ହେବା ଆବଶ୍ୟକ |
+
+ଏଠାରେ ବିକାଶ ପାଇଁ ଦୟାକରି ଏହି ନିୟମଗୁଡିକ ଅନୁସରଣ କରିବାକୁ ନିଶ୍ଚିତ କରନ୍ତୁ |
 
 ***
 
@@ -1118,6 +2786,44 @@ Sørg for å følge disse reglene for å utvikle deg her.
 > تصاویر برای این پروژه حساس هستند و قبل از تعهد نیاز به تأیید دارند.
 
 لطفاً برای تدوین در اینجا حتماً از این قوانین پیروی کنید.
+
+***
+
+{PS} (Pashto)
+
+# ونډه اخیستل
+
+د برانډ نوم 2D ژباړې انډول ته شراکت اجازه لري ، هرڅومره چې تاسو دا مرسته کونکي لارښودونه تعقیب کړئ:
+
+> * دا مسلکي وساتئ
+
+> مهرباني وکړئ د قسم ورکولو پر مهال له قسم ورکولو ، سلیزو کارولو ، یا نورو ناوړه ټکو څخه ډډه وکړئ
+
+> * د سنیپ شاټ فایلونه مه بدلوئ
+
+> سنیپ شاټ فایلونه د پا ofو د زړو نسخو آرشیف په توګه کار کوي. دا فایلونه ایډیټ یا حذف کړئ
+
+> * د هرې تایید شوې ژمنې وروسته سنیپ شاټ فایلونه جوړ کړئ
+
+> تاسو باید د هر کاريال وروسته یوې فایل ته د خپل کار ارشیف جوړ کړئ. د سنیپ شاټونو لپاره ، یوازې هغه فایل کاپي او کاپي کړئ چې تاسو یې ترمیم شوي مینځپانګې سره چې تاسو ایډیټ کوئ ، او د اصلي نوم سره یې په `OldVersions /`` لارښود کې خوندي کړئ ، ورپسې s _snapshot` بیا یوه شمیره چې د پخواني سنیپ شاټ څخه پورته 1 ده
+
+> * ځینې فایلونه مه بدلوئ
+
+> یوازې منل شوي لوړې کچې مرسته کونکي کولی شي ځینې فایلونه تمدید کړي ، لکه د ویکي پا ،و ، شراکت.md ، README.md ، او جواز.
+
+> * د تعقیب سکریپټونو کې مه اضافه کوئ
+
+> زما په هیڅ یوه پروژه کې تعقیبونکو ته اجازه نشته. مهرباني وکړئ شاته دروازې ، تعقیب کونکي ، روټکیټس ، کیلاګګرز او نور د محرمیت تیریدونکي ب featuresې له هر فایل څخه لرې وساتئ ،
+
+> * دا موثره وساتئ
+
+> دا پا pagesې باید وړتیا ولري چې د 10 میګابایټ څخه لږ د بینډوید سرعت سره ګړندي شي. مهرباني وکړئ د پا performanceې فعالیت له لاسه مه ورکوئ.
+
+> * پرته له اجازې عکسونه مه ورکوئ
+
+> عکسونه د دې پروژې لپاره حساس دي او اړتیا لري مخکې لدې چې دوی ژمن شي تصویب شي.
+
+مهرباني وکړئ ډاډ ترلاسه کړئ چې دلته پرمختیا لپاره دا مقررات تعقیب کړئ.
 
 ***
 
@@ -1241,6 +2947,42 @@ Certifique-se de seguir estas regras para desenvolver aqui.
 
 @R
 
+{RO} (Romanian)
+
+# Contribuind
+
+Contribuțiile la modulul de traducere 2D SNU sunt permise, atâta timp cât urmați aceste instrucțiuni de contribuție:
+
+> * Păstrați-l profesional
+
+> Vă rugăm să vă abțineți să folosiți înjurături, să folosiți insultă sau alte cuvinte rele atunci când comiteți
+
+> * Nu modificați fișierele instantanee
+
+> Fișierele instantanee servesc ca arhivă a versiunilor vechi ale paginilor. Nu editați sau ștergeți aceste fișiere
+
+> * Creați fișiere instantanee după fiecare confirmare confirmată
+
+> Trebuie să creați arhive ale lucrării dvs. după fiecare angajare într-un fișier. Pentru instantanee, copiați și lipiți fișierul pe care l-ați editat cu conținutul pe care l-ați editat și salvați-l în directorul `OldVersions /` cu numele original, urmat de `_snapshot`, apoi un număr care este 1 deasupra instantaneului anterior
+
+> * Nu modificați anumite fișiere
+
+> Doar colaboratorii autorizați la nivel înalt pot modifica anumite fișiere, cum ar fi paginile Wiki, contributing.md, README.md și licența.
+
+> * Nu adăugați scripturi de urmărire
+
+> Trackerele nu sunt permise în niciunul dintre proiectele mele. Vă rugăm să păstrați din fiecare fișier ușile din spate, trackerele, kiturile de root, keylogger-urile și alte caracteristici invazive de confidențialitate,
+
+> * Păstrați-l eficient
+
+> Aceste pagini ar trebui să poată fi încărcate rapid cu o viteză de lățime de bandă mai mică de 10 megabiți. Vă rugăm să nu împiedicați performanța paginii.
+
+> * Nu adăugați imagini fără permisiune
+
+> Imaginile sunt sensibile pentru acest proiect și vor trebui aprobate înainte de a putea fi angajate.
+
+Vă rugăm să vă asigurați că respectați aceste reguli pentru a le dezvolta aici.
+
 ***
 
 {RU} (Russian)
@@ -1282,6 +3024,462 @@ Certifique-se de seguir estas regras para desenvolver aqui.
 ***
 
 @S
+
+{SM} (Samoan)
+
+# Fesoasoani
+
+Faʻameaalofa i le SNU 2D Translate Module e faʻatagaina, pau lava le mea o lou mulimuli i nei saofaga taiala:
+
+> * Taofi faʻapolofesa
+
+> Faʻamolemole taofi mai le faʻaaogaina o le palauvale, faʻaaoga o le palauvale, poʻo nisi upu leaga a o e faia
+
+> * Aua le suia faila puʻeina
+
+> O faila faila e avea o se faila o faʻafanua tuai o itulau. Aua le faʻasaʻo pe aveese nei faila
+
+> * Fausia faila faila pe a uma ona faʻamaonia tautinoga taʻitasi
+
+> E tatau ona e fausiaina faʻamaumauga o lau galuega peʻa maeʻa taʻutinoga taʻitasi i se faila. Mo ata puʻeina, na o le kopi ma faʻapipiʻi le faila na e teuteuina ma mea na e teuteuina, ma sefe i le tusi "OldVersions /` ma le igoa muamua, sosoʻo mai ma le "_snapshot` ona numera lea e 1 i luga atu o le ata muamua.
+
+> * Aua le suia nisi faila
+
+> Naʻo tagata maualuluga maualuluga saofaga e mafai ona toe faʻaleleia nisi faila, pei ole itulau Wiki, saofaga.md, README.md, ma le laisene.
+
+> * Aua le faʻaopopoina i le siakiina o tusitusiga
+
+> E le faʻatagaina tagata suʻesuʻe i soʻo se tasi o aʻu poloketi. Faʻamolemole tuʻu i tua, trackers, rootkit, keyloggers, ma isi tulaga le faʻapitoa i totonu o faila uma,
+
+> * Tausia lelei
+
+> O nei itulau tatau ona mafai ona vave uta ma le itiiti ifo i le 10 megabits o bandwidth saosaoa. Faʻamolemole aua neʻi e faʻamamaina le faiga o laupepa.
+
+> * Aua le faʻaopopoina ata e aunoa ma le faʻatanaga
+
+> O ata e maaleale mo lenei poloketi ma o le a manaʻomia le faʻamaonia muamua latou te leʻi mafai ona faia.
+
+Faʻamolemole ia mautinoa e mulimuli i nei tulafono e atiaʻe ii.
+
+***
+
+{GD} (Scots Gaelic)
+
+# A ’cur ris
+
+Tha tabhartasan airson Modal Eadar-theangachaidh 2D SNU ceadaichte, fhad ‘s a leanas tu an stiùireadh tabhartais seo:
+
+> * Cùm e proifeasanta
+
+> Feuch an stad thu bho bhith a ’cleachdadh mionnachadh, a’ cleachdadh slurs, no droch fhaclan eile nuair a bhios tu a ’dèanamh
+
+> * Na atharraich faidhlichean snaim
+
+> Bidh faidhlichean snaim mar thasglann de sheann dreachan de dhuilleagan. Na deasaich no na cuir às do na faidhlichean sin
+
+> * Cruthaich faidhlichean snaim às deidh gach gealladh a chaidh a dhearbhadh
+
+> Feumaidh tu tasglannan den obair agad a chruthachadh às deidh gach gealltainn faidhle a dhèanamh. Airson snapshots, dìreach dèan lethbhreac agus pasg air an fhaidhle a dheasaich thu leis na susbaint a dheasaich thu, agus sàbhail e anns an eòlaire `OldVersions /` leis an ainm tùsail, agus an uairsin `_snapshot` agus an uairsin àireamh a tha 1 os cionn an dealbh roimhe
+
+> * Na atharraich faidhlichean sònraichte
+
+> Chan fhaod ach com-pàirtichean àrd-ìre ceadaichte faidhlichean sònraichte atharrachadh, leithid duilleagan Wiki, cur.md, README.md, agus an cead.
+
+> * Na cuir a-steach sgriobtaichean tracadh
+
+> Chan eil cead aig luchd-leantainn ann an gin de na pròiseactan agam. Feuch an cùm thu backdoors, lorgairean, rootkits, keyloggers, agus feartan ionnsaigheach prìobhaideachd eile a-mach às a h-uile faidhle,
+
+> * Cùm e èifeachdach
+
+> Bu chòir na duilleagan sin a bhith comasach air luchdachadh gu sgiobalta le nas lugha na 10 megabits de astar leud-bann. Feuch nach bog thu sìos coileanadh duilleag.
+
+> * Na cuir ìomhaighean gun chead
+
+> Tha ìomhaighean mothachail airson a ’phròiseict seo agus feumar aonta fhaighinn mus urrainn dhaibh a bhith air an gealltainn.
+
+Dèan cinnteach gun lean thu na riaghailtean seo gus leasachadh an seo.
+
+***
+
+{SR} (Serbian)
+
+# Доприноси
+
+Доприноси модулу за 2Д превођење БрандНаме су дозвољени под условом да следите ове смернице за допринос:
+
+> * Нека буде професионалан
+
+> Молимо вас да се уздржавате од коришћења псовки, непристојних речи или других лоших речи када почините
+
+> * Не мењајте датотеке снимака
+
+> Датотеке снимака служе као архива старих верзија страница. Немојте уређивати или брисати ове датотеке
+
+> * Креирајте датотеке снимака након сваког верификованог урезивања
+
+> Морате да креирате архиве свог рада након сваког урезивања у датотеку. За снимке, једноставно копирајте и налепите датотеку коју сте уредили са садржајем који сте уредили и сачувајте је у директорију `ОлдВерсионс /` са оригиналним именом, након чега следи `_снапсхот`, а затим број који је 1 изнад претходног снимка
+
+> * Не мењајте одређене датотеке
+
+> Само одобрени сарадници на високом нивоу могу мењати одређене датотеке, као што су Вики странице, цонтрибутинг.мд, РЕАДМЕ.мд и лиценца.
+
+> * Не додавај у скрипте за праћење
+
+> Трацкери нису дозвољени ни у једном од мојих пројеката. Молимо вас да не држите бекоде, тракере, роотките, кеилоггере и друге особине које угрожавају приватност из сваке датотеке,
+
+> * Нека буде ефикасан
+
+> Ове странице треба да могу брзо да се учитају са брзином пропусног опсега мањом од 10 мегабита. Молимо вас да не заваравате перформансе странице.
+
+> * Не додавајте слике без дозволе
+
+> Слике су осетљиве за овај пројекат и мораће да буду одобрене пре него што се преузму.
+
+Молимо вас да се придржавате ових правила да бисте се овде развијали.
+
+***
+
+{ST} (Sesotho)
+
+# E kenya letsoho
+
+Menehelo ho SNU 2D Translation Module ea lumelloa, ha feela u latela litataiso tsena:
+
+> * E boloke e le setsebi
+
+> Ka kopo khaotsa ho sebelisa mahlapa, ho sebelisa litlhapa kapa mantsoe a mang a mabe ha u itlama
+
+> * Se ke oa fetola lifaele tsa senepe
+
+> Lifaele tsa snapshot li sebetsa e le polokelo ea mefuta ea khale ea maqephe. Se ke oa hlophisa kapa oa hlakola lifaele tsena
+
+> * Etsa lifaele tsa setšoantšo ka mor'a boitlamo bo bong le bo bong bo netefalitsoeng
+
+> U tlameha ho etsa li-archives tsa mosebetsi oa hau kamora hore u itlame ka faele. Bakeng sa linepe, kopitsa feela u be u peista faele eo u e hlophisitseng ka litaba tse u li hlophisitseng, 'me u e boloke bukaneng ea `OldVersions /` e nang le lebitso la pele, e lateloe ke `_snapshot` ebe palo e 1 e kaholimo ho setšoantšo se fetileng
+
+> * Se ke oa fetola lifaele tse itseng
+
+> Ke bafani ba maemo a holimo feela ba lumelletsoeng ba ka fetolang lifaele tse ling, joalo ka maqephe a Wiki, ho kenya letsoho.md, README.md, le laesense.
+
+> * Se ke oa eketsa mananeong a ho latela
+
+> Balateli ha baa lumelloa ho eng kapa eng ea merero ea ka. Ka kopo boloka matlo a ka morao, lilateli, li-rootkits, li-keylogger, le likarolo tse ling tse hlaselang boinotšing tse tsoang faeleng e ngoe le e ngoe,
+
+> * E boloke e sebetsa hantle
+
+> Maqephe ana a lokela ho khona ho jarisoa kapele ka li-megabit tse ka tlase ho 10 tsa lebelo la bandwidth. Ka kopo o seke oa theola ts'ebetso ea leqephe.
+
+> * Se ke oa eketsa litšoantšo ntle le tumello
+
+> Litšoantšo li nahanela morero ona 'me li tla hloka ho amoheloa pele li ka itlama.
+
+Ka kopo etsa bonnete ba hore u latela melao ena ho nts'etsapele mona.
+
+***
+
+{SN} (Shona)
+
+# Kubatsira
+
+Mipiro kuSNU 2D Dudziro Module inobvumirwa, chero bedzi iwe uchitevedzera izvi zvinopa nhungamiro:
+
+> * Zvichengete zvine hunyanzvi
+
+> Ndokumbirawo usashandise kushandisa kutuka, kushandisa kutuka, kana mamwe mazwi akashata kana uchiita
+
+> * Usachinje mafaira emifananidzo
+
+> Mafaira ekufananidza anoshanda seyakavanzika ezvinyorwa zvekare zvemapeji. Usagadzirise kana kudzima mafaera aya
+
+> * Gadzira mafaira emifananidzo mushure mega chisimbiso chakaitwa
+
+> Unofanirwa kugadzira zvinyorwa zvebasa rako mushure mekuzvipira kune faira. Nezve mapikicha, ingo teedzera uye unamate iyo faira iwe yawakagadzirisa nezviri mukati iwe zvawakagadzirisa, uye chengeta iyo mu `OldVersions /` dhairekitori ine zita rekutanga, ichiteverwa ne` _snapshot` ipapo nhamba iri 1 pamusoro peiyo yapfuura snapshot
+
+> * Usachinje mamwe mafaera
+
+> Vanongobvumidzwa vepamusoro-soro vanopa vanogona kushandura mamwe mafaera, senge Wiki mapeji, kupa.md, README.md, uye rezinesi.
+
+> * Usawedzere mumateedzera ekuteedzera
+
+> Vatambi havabvumirwe mune chero eangu mapurojekiti. Ndokumbirawo kuti mugare kumashure, trackers, rootkits, keylogger, uye zvimwe zvakavanzika zvinokanganisa maficha kubva mune yega faira,
+
+> * Chengeta ichishanda
+
+> Aya mapeji anokwanisa kukwanisa kukurumidza kurodha aine asingasviki gumi megabits eiyo bandwidth kumhanya. Ndokumbirawo kuti musadzikise mashandiro epasi peji.
+
+> * Usawedzere mifananidzo pasina mvumo
+
+> Mifananidzo inonzwisisa chirongwa ichi uye inoda kuzotenderwa vasati vazvipira.
+
+Ndokumbirawo muve nechokwadi chekutevera iyi mirawo yekukudziridza pano.
+
+***
+
+{SD} (Sindhi)
+
+# حصو ڏيڻ
+
+برانڊ نام 2 ڊي ترجمي جي ماڊل جي تعاون جي اجازت آهي ، جيستائين توهان انهن مددگارن جي رهنمائي هيٺ رهن ٿا.
+
+> * اهو پروفيشنل رکو
+
+> مهرباني ڪري قسم کڻڻ ، گندي لفظ يا ٻئي خراب لفظ استعمال ڪرڻ کان پاسو ڪريو جڏهن ڪم ڪرڻ هجي
+
+> * سنيپشاٽ فائلن ۾ ترميم نه ڪريو
+
+> سنيپشاٽ فائلون صفحن جي پراڻين ورزن جي آرڪائيو طور ڪم ڪن ٿيون. انھن فائلن کي ايڊٽ ڪيو يا ختم نه ڪريو
+
+> * هر تصديق ٿيل ڪم کانپوءِ سنيپشاٽ فائلون ٺاهيندا
+
+> توھان کي ھر ھڪ ڪم ڪرڻ کان پوءِ پنھنجي ڪم جا آرڪائيو ٺاھڻ گھرجن. سنيپشاٽ لاءِ ، انهي فائل ۾ ڪاپي ۽ پيسٽ ڪريو جيڪا توهان ايڊٽ ٿيل مواد سان ڪئي هئي ، ۽ ان کي اصل نالو سان گڏ "OldVersions /" ڊاريڪٽري ۾ محفوظ ڪيو ، بعد ۾ _ `_snapshot` پوءِ هڪ نمبر جيڪو پوئين سنيپ شاٽ کان مٿي آهي
+
+> * ڪجهه فائلن ۾ ترميم نه ڪريو
+
+> صرف منظور ٿيل اعليٰ سطحي مددگار ڪجهه فائلن ۾ ترميم ڪري سگهندا آهن ، جهڙوڪ وڪي صفحا ، contribution.md ، README.md ، ۽ لائسنس.
+
+> * ٽريڪنگ اسڪرپٽ ۾ شامل نه ڪريو
+
+> منهنجي ڪنهن به پروجيڪٽ ۾ ٽريڪ جي اجازت ناهي. مهرباني ڪري پٺتي پيل گاڏيون ، ٽريڪٽر ، روٽ ڪٽس ، ڪوائلگر ، ۽ ٻين رازداري واريون ناگوار خاصيتون هر فائل کان ٻاهر رکو
+
+> * اهو موتمار رکو
+
+> اهي صفحا بينڊوڊٿ جي رفتار سان 10 ميگا بٽن کان گهٽ تيزي سان لوڊ ٿيڻ گهرجن. مهرباني ڪري پيج جي ڪارڪردگي کي خراب نه ڪريو.
+
+> * اجازت کانسواءِ تصويرون شامل نه ڪريو
+
+> تصويرون هن پروجيڪٽ لاءِ حساس آهن ۽ ذميواري ٿيڻ کان پهريان منظور ٿيڻ جي ضرورت آهي.
+
+مهرباني ڪري هتي ترقي لاءِ انهن قاعدن تي عمل ڪرڻ کي يقيني بڻايون
+
+***
+
+{SI} (Sinhala)
+
+# දායක වීම
+
+ඔබ මෙම දායක මාර්ගෝපදේශ අනුගමනය කරන තාක් කල්, බ්‍රෑන්ඩ්නේම් 2 ඩී පරිවර්තන මොඩියුලයට දායක වීමට අවසර ඇත:
+
+> * එය වෘත්තීය මට්ටමක තබා ගන්න
+
+> කරුණාකර දිවුරුම් දීම, අපහාස කිරීම හෝ වෙනත් නරක වචන භාවිතා කිරීමෙන් වළකින්න
+
+> * Snapshot ගොනු වෙනස් නොකරන්න
+
+> Snapshot ගොනු පැරණි පිටු වල ලේඛනාගාරයක් ලෙස සේවය කරයි. මෙම ගොනු සංස්කරණය හෝ මකා නොදමන්න
+
+> * එක් එක් සත්‍යාපනය කළ පසු ස්නැප්ෂොට් ගොනු සාදන්න
+
+> එක් එක් ගොනුවකට බැඳී සිටීමෙන් පසු ඔබ ඔබේ කාර්යයේ ලේඛනාගාරයක් සෑදිය යුතුය. ස්නැප්ෂොට් සඳහා, ඔබ සංස්කරණය කළ ගොනුව ඔබ සංස්කරණය කළ අන්තර්ගතය සමඟ පිටපත් කර අලවන්න, එය මුල් නම සමඟ `ඕල්ඩ්වර්ෂන්ස් /` ඩිරෙක්ටරියේ සුරකින්න, ඉන්පසු` _ ස්නැප්ෂොට්` ඉන්පසු පෙර ස්නැප්ෂොට් 1 ට වඩා වැඩි සංඛ්‍යාවක්
+
+> * සමහර ගොනු වෙනස් නොකරන්න
+
+> විකි පිටු, දායකත්ව එම්.ඩී, README.md, සහ බලපත්‍රය වැනි ඇතැම් ලිපිගොනු වෙනස් කළ හැක්කේ අනුමත ඉහළ මට්ටමේ දායකයින්ට පමණි.
+
+> * ෙසොයා ගැනීෙම් ස්ක්‍රිප්ට් එකතු නොකරන්න
+
+> මගේ කිසිදු ව්‍යාපෘතියක ලුහුබැඳීමට අවසර නැත. කරුණාකර සෑම දොරකින්ම පසුපස දොරවල්, ට්‍රැකර්, රූට්කිට්, යතුරු පුවරු සහ වෙනත් රහස්‍යතා ආක්‍රමණශීලී අංග තබා ගන්න
+
+> * එය කාර්යක්ෂමව තබා ගන්න
+
+> මෙම පිටු වලට කලාප පළල වේගයේ මෙගාබිට් 10 ට වඩා අඩු වේගයකින් පැටවීමට හැකි විය යුතුය. කරුණාකර පිටු කාර්ය සාධනය අඩු නොකරන්න.
+
+> * අවසරයකින් තොරව පින්තූර එකතු නොකරන්න
+
+> මෙම ව්‍යාපෘතිය සඳහා රූප සංවේදී වන අතර ඒවා සිදු කිරීමට පෙර ඒවා අනුමත කළ යුතුය.
+
+මෙහි සංවර්ධනය කිරීම සඳහා කරුණාකර මෙම නීති අනුගමනය කිරීමට වග බලා ගන්න.
+
+***
+
+{SK} (Slovak)
+
+# Prispievanie
+
+Príspevky do prekladového modulu SNU 2D sú povolené, ak budete postupovať podľa týchto pokynov pre prispievanie:
+
+> * Udržujte to profesionálne
+
+> Pri páchaní prosím nepoužívajte nadávky, nadávky ani iné zlé slová
+
+> * Neupravujte súbory snímok
+
+> Súbory snímok slúžia ako archív starých verzií stránok. Tieto súbory neupravujte ani neodstraňujte
+
+> * Po každom overenom potvrdení vytvorte súbory snímok
+
+> Po každom odovzdaní súboru musíte vytvoriť archív svojej práce. Pre snímky jednoducho skopírujte a prilepte súbor, ktorý ste upravili, s obsahom, ktorý ste upravili, a uložte ho do adresára `OldVersions /` s pôvodným názvom, za ktorým nasleduje znak _snapshot a potom číslo, ktoré je o 1 nad predchádzajúcou snímkou.
+
+> * Neupravujte určité súbory
+
+> Niektoré súbory, napríklad Wiki stránky, prispievajúci.md, README.md a licencia, môžu upravovať iba schválení prispievatelia na vysokej úrovni.
+
+> * Nepridávajte sledovacie skripty
+
+> Sledovače nie sú povolené v žiadnom z mojich projektov. Prosím, chráňte zadné vrátka, trackery, rootkity, keyloggery a ďalšie funkcie ovplyvňujúce súkromie mimo každého súboru,
+
+> * Udržujte to efektívne
+
+> Tieto stránky by mali byť schopné rýchleho načítania s rýchlosťou šírky pásma menej ako 10 megabitov. Neznižujte výkonnosť stránky.
+
+> * Nepridávajte obrázky bez povolenia
+
+> Obrázky sú pre tento projekt citlivé a pred ich použitím musia byť schválené.
+
+Nezabudnite dodržiavať tieto pravidlá, aby ste ich tu vytvorili.
+
+***
+
+{SL} (Slovenian)
+
+# Prispevanje
+
+Prispevki k modulu za 2D prevajanje SNU so dovoljeni, če upoštevate te smernice za prispevanje:
+
+> * Naj bo profesionalno
+
+> Ko se zavežete, ne uporabljajte psovk, neprimernih besed ali drugih slabih besed
+
+> * Ne spreminjajte datotek s posnetki
+
+> Datoteke posnetkov služijo kot arhiv starih različic strani. Ne urejajte ali brišite teh datotek
+
+> * Ustvari datoteke posnetkov po vsakem preverjenem prevzemu
+
+> Po vsaki objavi v datoteki morate ustvariti arhive svojega dela. Za posnetke preprosto kopirajte in prilepite datoteko, ki ste jo uredili, z vsebino, ki ste jo uredili, in jo shranite v imenik `OldVersions /` z izvirnim imenom, čemur sledi `_snapshot` in številka, ki je ena nad prejšnjim posnetkom
+
+> * Ne spreminjajte določenih datotek
+
+> Samo odobreni visoko prispevajoči sodelavci lahko spreminjajo nekatere datoteke, na primer strani Wiki, contributing.md, README.md in licenco.
+
+> * Ne dodajajte v sledilne skripte
+
+> Sledilniki niso dovoljeni v nobenem od mojih projektov. Prosimo, da v vsaki datoteki ne boste imeli zaklenjenih prostorov, sledilcev, rootkitov, keyloggerjev in drugih funkcij, ki vplivajo na zasebnost,
+
+> * Naj bo učinkovit
+
+> Te strani bi se morale hitro nalagati s pasovno širino manj kot 10 megabitov. Prosimo, ne zakrivajte zmogljivosti strani.
+
+> * Ne dodajajte slik brez dovoljenja
+
+> Slike so za ta projekt občutljive in jih bo treba odobriti, preden jih bo mogoče prevzeti.
+
+Prosimo, ne pozabite upoštevati teh pravil, če jih želite razviti tukaj.
+
+***
+
+{SO} (Somali)
+
+# Wax ku biirinaya
+
+Ku darsiga Module Tarjumaadda BrandName 2D waa la oggol yahay, illaa intaad raacayso tilmaamahan wax ku biirinaya:
+
+> * Ka dhig mid xirfad leh
+
+> Fadlan ka fogow isticmaalka cayda, adeegsiga cayda, ama ereyo kale oo xun markaad wax sameyneyso
+
+> * Wax ha ka beddelin feylasha sawir-qaadista ah
+
+> Faylasha sawir-qaadista waxay u adeegaan sidii keyd qoraalkii hore ee bogagga. Ha tafatirin ama tirtirin feylashaan
+
+> * Abuur faylal shaashad ah ka dib xaqiijin kasta oo la sameeyo
+
+> Waa inaad sameysataa diiwaanada shaqadaada ka dib markasta oo aad galiso fayl. Sawir-qaadaha, kaliya nuqul oo dhaji feylka aad ku saxday waxyaabaha aad wax ka beddeshay, oo ku kaydso galka `` OldVersions / '' oo wata magaca asalka ah, oo ay ku xigto `'_snapshot` ka dibna lambar ka sarreeya 1 sawirkii hore
+
+> * Wax ha ka beddelin faylasha qaarkood
+
+> Kaliya dadka wax soo kordhiya ee heerka sare la ansixiyay ayaa wax ka beddeli kara faylasha qaarkood, sida bogagga Wiki, contributing.md, README.md, iyo liisanka.
+
+> * Ha ku darin qoraallada raadraaca
+
+> Raafleyaasha looma oggola mid ka mid ah mashaariicdayda. Fadlan ka fogee banaanka, raad raacayaasha, rootkits, keyloggers, iyo astaamaha kale ee wax u dhimaya asturnaanta fayl kasta,
+
+> * Si hufan u ilaali
+
+> Bogaggan waa in ay awood u yeeshaan in ay si dhakhso leh ugu soo rartaan wax ka yar 10 megabits oo xawaaraha xawaaraha xawaaraha ah. Fadlan ha hoos udhigin waxqabadka bogga.
+
+> * Ha ku darin sawirada fasax la'aan
+
+> Sawirradu way xasaasi u yihiin mashruucan waxayna u baahan doonaan in la oggolaado ka hor intaan la goyn.
+
+Fadlan hubi inaad raacdo xeerarkan si aad halkan ugu horumariso.
+
+***
+
+{SU} (Sundanese)
+
+# Nyumbangkeun
+
+Kontribusi kana Modul Tarjamahan BrandName 2D diidinan, salami anjeun nuturkeun tungtunan pangdeudeul ieu:
+
+> * Tetep tetep profesional
+
+> Punten nyingkahan teu nganggo sumpah, ngagunakeun fitnah, atanapi kecap-kecap goréng sanés nalika ngalakukeun
+
+> * Entong ngarobih file snapshot
+
+> Payil gambar janten arsip vérsi lami halaman. Entong diédit atanapi dipupus file ieu
+
+> * Nyiptakeun file snapshot saatos masing-masing diverifikasi
+
+> Anjeun kedah ngadamel arsip padamelan anjeun saatos masing-masing ngalakukeun file. Pikeun snapshot, cukup salin sareng témpél file anu anjeun edit kalayan kontén anu anjeun éditan, sareng simpen dina diréktori `OldVersions/` kalayan nami aslina, dituturkeun ku "`_snapshot` maka nomer anu 1 di luhur snapshot tadi
+
+> * Entong ngarobih file anu tangtu
+
+> Ngan ukur kontributor tingkat luhur anu tiasa ngarobih file anu tangtu, sapertos halaman Wiki, Contributor.md, README.md, sareng lisénsi.
+
+> * Entong nambihan skrip pelacak
+
+> Pelacak henteu kénging dina proyék kuring. Punten jaga di tukang, pelacak, rootkit, keylogger, sareng fitur invasif privasi sanés tina unggal file,
+
+> * Tetep éfisiénna
+
+> Halaman-halaman ieu kedahna tiasa gancang dimuat kalayan kirang ti 10 megabit kacepetan bandwidth. Punten entong bobo kinerja halaman.
+
+> * Entong nambihan gambar tanpa ijin
+
+> Gambar sénsitip pikeun proyék ieu sareng bakal kedah disatujuan sateuacan dilakukeun.
+
+Punten pastikeun nuturkeun aturan ieu pikeun dikembangkeun di dieu.
+
+***
+
+{SW} (Swahili)
+
+# Kuchangia
+
+Michango kwa Moduli ya Tafsiri ya BrandName 2D inaruhusiwa, mradi utafuata miongozo hii ya kuchangia:
+
+> * Weka mtaalamu
+
+> Tafadhali jiepushe kutumia kuapa, kutumia vijembe, au maneno mengine mabaya wakati wa kujitolea
+
+> * Usibadilishe faili za picha
+
+> Faili za picha za picha hutumika kama kumbukumbu ya matoleo ya zamani ya kurasa. Usibadilishe au ufute faili hizi
+
+> * Tengeneza faili za picha baada ya kila ahadi iliyothibitishwa
+
+> Lazima uunda kumbukumbu za kazi yako baada ya kila ahadi kwenye faili. Kwa picha tu, nakili na ubandike faili uliyohariri na yaliyomo uliyohariri, na uihifadhi kwenye saraka ya `OldVersions /` iliyo na jina asili, ikifuatiwa na `_snapshot` kisha nambari ambayo ni 1 juu ya picha ya awali
+
+> * Usibadilishe faili fulani
+
+> Wachangiaji wa kiwango cha juu tu walioidhinishwa wanaweza kurekebisha faili fulani, kama vile kurasa za Wiki, kuchangia.md, README.md, na leseni.
+
+> * Usiongeze katika hati za ufuatiliaji
+
+> Wafuatiliaji hawaruhusiwi katika miradi yangu yoyote. Tafadhali weka milango ya nyuma, trackers, rootkits, keylogger, na huduma zingine za uvamizi wa faragha kutoka kwa kila faili,
+
+> * Weka vizuri
+
+> Kurasa hizi zinapaswa kupakia haraka na chini ya megabiti 10 ya kasi ya upelekaji. Tafadhali usibadilishe utendaji wa ukurasa.
+
+> * Usiongeze picha bila ruhusa
+
+> Picha ni nyeti kwa mradi huu na zitahitaji kupitishwa kabla ya kujitolea.
+
+Tafadhali hakikisha kufuata sheria hizi ili kuendeleza hapa.
+
+***
 
 {SV} (Swedish)
 
@@ -2039,7 +4237,65 @@ Available in:
 47. Portuguese
 48. Punjabi
 49. Swedish 
-50. No other languages
+50. Basque
+51. Belarusian
+52. Bengali
+53. Bosnian
+54. Catalan
+55. Cebuano
+56. Chichewa
+57. Chinese (simplified)
+58. Corsican
+59. Croatian
+60. Czech
+61. Estonian
+62. Filipino
+63. Finnish
+64. Frisian
+65. Galician
+66. Guarati
+67. Haitian Creole
+68. Hausa
+69. Hawaiian
+70. Hmong
+71. Hungarian
+72. Igbo
+73. Kannada
+74. Kazakh
+75. Khmer
+76. Kinyarwanda
+77. Kurdish Kurmanji
+78. Kyrgyz
+79. Lao
+80. Latvian
+81. Lithuanian
+82. Luxembourgish
+83. Macedonian
+84. Malagasy
+85. Malay
+86. Malayalam
+87. Maltese
+88. Maori
+89. Marathi
+90. Mongolian
+91. Myanmar burmese
+92. Nepali
+93. Odia Oriya
+94. Pashto
+95. Romanian
+96. Samoan
+97. Scots Gaelic
+98. Serbian
+99. Sesotho
+100. Shona
+101. Sindhi
+102. Sinhala
+103. Slovak
+104. Slovenian
+105. Somali
+106. Sundanese
+107. Swahili
+108. No other languages
 
 All languages (except for English) need to be checked for accuracy
 
@@ -2047,11 +4303,110 @@ All languages (except for English) need to be checked for accuracy
 
 ### Contributing file info
 
-File version: `3 (Monday, September 28th 2020 at 2:40 pm)`
+File version: `4 (Monday, September 28th 2020 at 5:16 pm)`
 
 File type: `Markdown (*.md)`
 
-Line count (including blank lines and compiler line): `2,065`
+Line count (including blank lines and compiler line): `4,420`
+
+***
+
+### Contributing file history
+
+Version 1 (Sunday, June 28th 2020 at 7:08 pm)
+
+> Changes:
+
+> * Started the file
+
+> * Added the standard contributing rules in English
+
+> * No other changes in version 1
+
+Version 2 (Sunday, September 27th 2020 at 8:24 pm)
+
+> Changes:
+
+> * Began preparing the document for translation changes
+
+> * Added a notice message about translation accuracy
+
+> * Added support for 12 new languages (1 Arabic, 2 Armenian, 3 Bulgarian, 4 Chinese (traditional) 5 Esperanto 6 French 7 German 8 Greek 9 Spanish 10 Russian 11 Japanese and 12 Korean (south))
+
+> * No other changes in version 2
+
+Version 3 (Monday, September 28th 2020 at 2:40 pm)
+
+> Changes:
+
+> * Fixed some formatting errors
+
+> * Added a file info section
+
+> * Added a footer
+
+> * Added support for 38 new languages (Tajik (1) Tamil (2) Tatar (3) Telugu (4) Thai (5) Turkish (6) Turkmen (7) Ukrainian (8) Urdu (9) Uyghur (10) Uzbek (11) Vietnamese (12) Welsh (13) Xhosa (14) Yiddish (15) Yoruba (16) Zulu (17) Afrikaans (18) Albanian (19) Amharic (20) Azerbaijani (21) Danish (22) Dutch (23) Georgian (24) Hebrew (25) Hindi (26) Icelandic (27) Indonesian (28) Irish (29) Italian (30) Javanese (31) Latin (32) Norwegian (33) Persian (34) Polish (35) Portuguese (36) Punjabi (37) and Swedish (38))
+
+> * Added a language list
+
+> * No other changes in version 3
+
+Version 4 (Monday, September 28th 2020 at 5:16 pm)
+
+> Changes:
+
+> * Fixed some more formatting errors
+
+> * Updated the file info section
+
+> * Added a file version history section
+
+> * * Added release notes for releases 1-4
+
+> * Added support for 58 new languages (Basque (1) Belarusian (2) Bengali (3) Bosnian (4) Catalan (5) Cebuano (6) Chichewa (7) Chinese (simplified) (8) Corsican (9) Croatian (10) Czech (11) Estonian (12) Filipino (13) Finnish (14) Frisian (15) Galician (16) Gujarati (17) Haitian Creole (18) Hausa (19) Hawaiian (20) Hmong (21) Hungarian (22) Igbo (23) Kannada (24)
+Kazakh (25) Khmer (26) Kinyarwanda (27) Kurdish Kurmanji (28) Kyrgyz (29) Lao (30) Latvian (31) Lithuanian (32) Luxembourgish (33) Macedonian (34) Malagasy (35) Malay (36) Malayalam (37) Maltese (38) Maori (39) Marathi (40) Mongolian (41) Myanmar burmese (42) Nepali (43) Odia Oriya (44) Pashto (45) Romanian (46) Samoan (47) Scots Gaelic (48) Serbian (49) Sesotho (50) Shona (51) Sindhi (52) Sinhala (53) Slovak (54) Slovenian (55) Somali (56) Sundanese (57) and Swahili (58))
+
+> * Updated the language list
+
+> * Updated the translation notice
+
+> * No other changes in version 4
+
+Version 5 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+Version 6 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+Version 7 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+Version 8 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+Version 9 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+Version 10 (Coming soon)
+
+> Changes:
+
+> * Coming soon
 
 ***
 
