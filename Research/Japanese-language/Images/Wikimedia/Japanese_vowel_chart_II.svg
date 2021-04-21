@@ -1,0 +1,28 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" height="720px" width="980px" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px" x="0px" xmlns:cc="http://creativecommons.org/ns#" enable-background="new 0 0 980 720" viewBox="0 0 980 720" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <g stroke="#000" stroke-width="4" transform="translate(15.837 29.078)" fill="none">
+    <path d="m5.3 2.94l876.01-0.929 1.21 657.99-439.68-1.217-437.54-655.84z"/>
+    <path d="m443.77 2.94l217.38 655.84"/>
+    <path d="m152.08 222.17l729.23-0.929"/>
+    <path d="m299.78 441.41l579.67-1.858h0.929v-0.929"/>
+  </g>
+  <g transform="translate(654 -420)">
+    <path d="m70.314 517c0 9.941-8.059 18-18 18s-18-8.059-18-18c0-9.941 8.059-18 18-18s18 8.06 18 18z"/>
+    <text font-size="60" font-family="CharisSIL, DoulosSIL, sans-serif" transform="translate(27.492 535)" text-anchor="end">ɯ̟ᵝ</text>
+  </g>
+  <g transform="translate(268 -155)">
+    <path d="m54.314 512c0 9.941-8.059 18-18 18s-18-8.059-18-18c0-9.94 8.059-18 18-18s18 8.06 18 18z"/>
+    <text font-size="60" font-family="CharisSIL, DoulosSIL, sans-serif" transform="translate(60.489 530)">e̞</text>
+  </g>
+  <g transform="translate(736 -152)">
+    <path d="m141.31 484c0 9.94-8.059 18-18 18s-18-8.06-18-18c0-9.941 8.059-18 18-18s18 8.06 18 18z"/>
+    <text font-size="60" font-family="CharisSIL, DoulosSIL, sans-serif" transform="translate(98.504 502)" text-anchor="end">o̞</text>
+  </g>
+  <g transform="translate(523 117)">
+    <path d="m109.31 532c0 9.941-8.059 18-18 18s-18-8.059-18-18 8.059-18 18-18 18 8.06 18 18z"/>
+    <text font-size="60" font-family="CharisSIL, DoulosSIL, sans-serif" transform="translate(67.132 550)" text-anchor="end">ä</text>
+  </g>
+  <g transform="translate(76 -474)">
+    <path d="m49.314 541.21c0 9.941-8.059 18-18 18s-18-8.059-18-18c0-9.941 8.059-18 18-18s18 8.06 18 18z"/>
+    <text font-size="60" font-family="CharisSIL, DoulosSIL, sans-serif" transform="translate(57.228 559.21)">i</text>
+  </g>
+</svg>
