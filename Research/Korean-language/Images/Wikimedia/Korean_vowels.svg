@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220">
+<g font-size="32" fill="#03C" font-family="Baekmuk Dotum">
+<text>
+<tspan x="18" y="52">아</tspan>
+<tspan x="120">어</tspan>
+<tspan x="18" y="116">오</tspan>
+<tspan x="120">우</tspan>
+<tspan x="18" y="180">으</tspan>
+<tspan x="120">이</tspan></text>
+<g fill="#C00"><text>
+<tspan x="69" y="52">야</tspan>
+<tspan x="171">여</tspan>
+<tspan x="69" y="116">요</tspan>
+<tspan x="171">유</tspan></text>
+<g font-size="12" font-family="Arial">
+<text><tspan x="82" y="72">1</tspan>
+<tspan x="184">2</tspan>
+<tspan x="82" y="136">3</tspan>
+<tspan x="184">4</tspan></text>
+<text font-size="12" fill="#03C">
+<tspan x="31" y="72">1</tspan>
+<tspan x="133">2</tspan>
+<tspan x="31" y="136">3</tspan>
+<tspan x="133">4</tspan>
+<tspan x="31" y="200">5</tspan>
+<tspan x="133">6</tspan></text>
+</g></g></g></svg>

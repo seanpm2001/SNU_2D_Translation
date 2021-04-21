@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="215" height="265" fill="#03C">
+<text font-size="32" font-family="Baekmuk Dotum">
+<tspan x="15" y="34">ㄱ</tspan>
+<tspan x="66">ㄴ</tspan>
+<tspan x="117">ㄷ</tspan>
+<tspan x="168">ㄹ</tspan>
+<tspan x="15" y="98">ㅁ</tspan>
+<tspan x="66">ㅂ</tspan>
+<tspan x="117">ㅅ</tspan>
+<tspan x="168">ㅇ</tspan>
+<tspan x="15" y="162">ㅈ</tspan>
+<tspan x="66">ㅊ</tspan>
+<tspan x="117">ㅋ</tspan>
+<tspan x="168">ㅌ</tspan>
+<tspan x="15" y="226">ㅍ</tspan>
+<tspan x="66">ㅎ</tspan></text>
+<text font-size="12" font-family="Arial">
+<tspan x="26" y="46">1</tspan>
+<tspan x="76">2</tspan>
+<tspan x="128">3</tspan>
+<tspan x="179">4</tspan>
+<tspan x="25" y="110">5</tspan>
+<tspan x="76">6</tspan>
+<tspan x="127">7</tspan>
+<tspan x="179">8</tspan>
+<tspan x="24" y="174">9</tspan>
+<tspan x="72">10</tspan>
+<tspan x="125">11</tspan>
+<tspan x="176">12</tspan>
+<tspan x="21" y="238">13</tspan>
+<tspan x="72">14</tspan></text>
+</svg>
