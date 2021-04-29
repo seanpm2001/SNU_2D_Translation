@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64px"
+   height="64px"
+   id="svg2678"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="gupta_allahabad_kh.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs2680">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 32 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="64 : 32 : 1"
+       inkscape:persp3d-origin="32 : 21.333333 : 1"
+       id="perspective2686" />
+    <inkscape:perspective
+       id="perspective2695"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2750"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.5"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:window-width="640"
+     inkscape:window-height="688"
+     inkscape:window-x="56"
+     inkscape:window-y="56" />
+  <metadata
+     id="metadata2683">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="fill:#000000"
+       d="M 45.557677,58.047051 C 43.188736,57.389257 40.015903,56.833953 38.506936,56.813044 C 34.986022,56.764255 31.344037,55.38025 31.344037,54.091045 C 31.344037,52.257124 35.078607,45.5764 36.103781,45.5764 C 36.658525,45.5764 37.812626,44.023591 38.668449,42.125714 C 39.524274,40.227837 40.78953,38.206089 41.480132,37.632939 C 42.818942,36.521826 49.434124,26.641829 49.434124,25.753384 C 49.434124,23.500223 44.738311,16.130952 42.596946,15.023609 C 39.68086,13.515643 34.001068,13.308685 29.664542,14.552383 C 25.497573,15.747454 20.287511,21.085563 19.610008,24.854027 C 19.307137,26.538679 18.685601,28.388534 18.228816,28.964817 C 17.265085,30.180668 17.779599,37.217622 19.285927,43.422819 C 20.988114,50.434835 20.887008,51.140115 18.13442,51.455312 C 16.79148,51.60909 15.047079,51.448879 14.257972,51.099285 C 13.468865,50.74969 10.52366,49.62947 7.713072,48.609906 C 0.42986487,45.967863 -0.043329676,44.748668 4.4410317,40.179437 C 7.4201271,37.14396 8.085353,35.875436 8.085353,33.230057 C 8.085353,28.101626 10.754561,18.83173 13.32522,15.032511 C 17.205934,9.2971453 19.029481,8.0429423 29.190454,4.1206969 C 35.041622,1.8620832 46.218623,5.0079477 51.875584,10.505624 C 59.610699,18.02294 62.04663,26.943815 61.250736,44.839354 C 60.639841,58.575239 60.257395,59.37755 54.357053,59.301183 C 51.886336,59.269205 47.926617,58.704847 45.557677,58.047051 z M 50.271519,46.03608 C 52.203349,43.708368 50.17318,40.861434 48.07536,43.094459 C 46.499847,44.771517 46.869495,47.299266 47.886337,47.299266 C 48.621594,47.299266 49.694926,46.730832 50.271519,46.03608 z"
+       id="path2756"
+       sodipodi:nodetypes="csssssssssssssssssssssccssc" />
+  </g>
+</svg>
